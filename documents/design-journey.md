@@ -112,6 +112,10 @@ Need/Want: ...
 
     ![Final Card Sort](finalcardsort.jpg)
 
+##Initial Design Sketches
+- Home draft sketch - Jonna
+![](home-draft-sketch.JPG)
+
 ## Interactivity (Milestone 1) - Leo
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
@@ -191,9 +195,13 @@ Task: [TODO: copy task here]
 > Include the final sketches for each of your pages. These sketches **must** hand-drawn.
 
 **Desktop Design:**
+- Homepage Final Sketch (Desktop) - Jonna
+![](home-final-sketch.jpg)
 
 
 **Mobile Design:**
+- Homepage Final Sketch (Mobile) - Jonna
+![](home-mobile-final.jpg)
 
 
 ## Additional Comments (Milestone 1)
