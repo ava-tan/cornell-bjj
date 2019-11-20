@@ -32,8 +32,14 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
     - we will meet with the client in person once per milestone before practice during the week
 
 5. What roles will we create? Include a description of exactly what each role is responsible for.
-
-
+    - home page: joanna
+    - Jiu Jitsu Basics
+        - Ava: What is jiu-Jitsu
+        - Asher: videos
+        - Leo: required items
+        - Joanna: jiu-jitsu outfitters
+    - Club Calendar: Asher
+    - Sign up and Forms: Ava
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
     - give each other clear tasks in line with our team roles
@@ -48,7 +54,10 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
     - don't take any disagreements that arise personally, considering we're all still trying to figure out how web development
 
 8. What are our procedures for re-visiting this contract?
-    -
+    - don't be afraid to bring concerns to the group, we're good with any changes that become necessary
+    - call a team meeting to discuss
+    - all open the contract
+    - discuss changes that need to be made
 
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
