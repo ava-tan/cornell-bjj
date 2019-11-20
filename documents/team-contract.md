@@ -14,8 +14,7 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
     - keep communication between us and client active
     - complete each task we assign to each other to the best of our ability
     - update team members frequently as to our progress on tasks
-
-
+    
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
     - tasks should be distributed equally with regards to time
     - keep members updated when code is changed, and if we're having trouble completing a task
