@@ -131,10 +131,12 @@ Need/Want: ...
 
     ![Final Card Sort](finalcardsort.jpg)
 
-##Initial Design Sketches
+## Initial Design Sketches
 - Home draft sketch - Jonna
 ![](home-draft-sketch.JPG)
 
+- Signup draft sketch - Ava
+![Desktop draft](signupsketch-1.jpg)
 ## Interactivity (Milestone 1) - Leo
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
@@ -217,11 +219,15 @@ Task: [TODO: copy task here]
 - Homepage Final Sketch (Desktop) - Jonna
 ![](home-final-sketch.jpg)
 
+- Signup Final Sketch (Desktop) - Ava
+![Signup Final Desktop](signupsketch-final.jpg)
 
 **Mobile Design:**
 - Homepage Final Sketch (Mobile) - Jonna
 ![](home-mobile-final.jpg)
 
+- Signup Final Sketch (Mobile) - Ava
+![Signup Mobile Final](signupsketch-mobile.jpg)
 
 ## Additional Comments (Milestone 1)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
