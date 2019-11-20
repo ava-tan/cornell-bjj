@@ -56,14 +56,13 @@ Needs/Wants:
   - Form can also include skill level
 
 ## User(s) (Milestone 1) - Asher
-> Tell us about the users (target audience) for this website.
+The primary purpose of this website is member recruitment and conversion. That makes the intended audience for this site Cornell students who are not currently in the club, but who have an interest either in jiu-jitsu, more generally martial arts, or simply in finding a new way to stay fit while on campus.
 
-
-## Discovering Users' Needs (Milestone 1)
+## Discovering Users' Needs (Milestone 1) -Asher
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
 
-## Users' Needs (Milestone 1)
+## Users' Needs (Milestone 1) -Asher
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
@@ -131,6 +130,10 @@ Need/Want: ...
     * Final Card Sort:
 
     ![Final Card Sort](finalcardsort.jpg)
+
+##Initial Design Sketches
+- Home draft sketch - Jonna
+![](home-draft-sketch.JPG)
 
 ## Interactivity (Milestone 1) - Leo
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
@@ -211,9 +214,13 @@ Task: [TODO: copy task here]
 > Include the final sketches for each of your pages. These sketches **must** hand-drawn.
 
 **Desktop Design:**
+- Homepage Final Sketch (Desktop) - Jonna
+![](home-final-sketch.jpg)
 
 
 **Mobile Design:**
+- Homepage Final Sketch (Mobile) - Jonna
+![](home-mobile-final.jpg)
 
 
 ## Additional Comments (Milestone 1)
