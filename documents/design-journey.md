@@ -8,7 +8,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Description (Milestone 1) - Ava
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
-
+Our client is the Cornell Brazilian Jiu Jitsu club. They would like a website for outreach to new members and to educate newcomers about what jiu jitsu is. Their key goals are to inform potential new members about the club and to make jiu jitsu more accessible to beginners.
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
@@ -16,6 +16,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
+The website's purpose is to educate potential new members about what jiu jitsu is and what the club is. Through the website, the club wants to make jiu jitsu more accessible to a larger audience, especially at Cornell.
 
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
@@ -25,16 +26,34 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
 
-Needs/Wants: [Brief Title]
+Needs/Wants:
 - **Needs and Wants** [What does your client need and want?]
-  - TODO
+  - Inform beginners about what jiu jitsu is
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Have a "Jiu Jitsu Basics" page that includes a summary of the sport and reference videos/what gear jiu jitsu entails
 - **Memo** [Justify your decisions; additional notes.]
-  - TODO
+  - Having a dedicated page will give newcomers a clear page to visit if they want to learn more about how to get started with the sport
 
-Need/Want: ...
+- **Needs and Wants**
+  - Calendar to show schedule
+- **Design Ideas and Choices**
+  - Include an interactive calendar that shows the schedule for practices/events
+- **Memo**
+    - Standalone calendar would make the events/schedule for the club clear and organized, members would be informed about events
 
+- **Needs and Wants**
+  - Information about the club, what they are, where they meet, and when
+- **Design Ideas and Choices**
+  - On the home page, include images and a summary of what the club is and when/where they meet
+- **Memo**
+  - Having the most essential information about the club on the home page will make the club more accessible to potential members
+
+- **Needs and Wants**
+  - A way for potential members to show interest in the club/sign up for more information
+- **Design Ideas and Choices**
+  - Include a form to sign up for listserv/show interest in the club
+- **Memo**
+  - Form can also include skill level
 
 ## User(s) (Milestone 1) - Asher
 > Tell us about the users (target audience) for this website.
