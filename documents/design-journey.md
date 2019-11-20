@@ -20,6 +20,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
 
+![Meeting Minutes](meetingminutes1.png)
 
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
