@@ -161,8 +161,17 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 - Home draft sketch - Jonna
 ![](home-draft-sketch.JPG)
 
+- Calendar sketches- Asher
+![](cal1.jpg)
+![](cal2.jpg)
+![](cal3.jpg)
+- Calendar page sketch -Asher
+![](cal_webpage.jpg)
+
+
 - Signup draft sketch - Ava
 ![Desktop draft](signupsketch-1.jpg)
+
 ## Interactivity (Milestone 1) - Leo
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
@@ -248,12 +257,18 @@ Task: [TODO: copy task here]
 - Signup Final Sketch (Desktop) - Ava
 ![Signup Final Desktop](signupsketch-final.jpg)
 
+- Calendar Final Sketches(Desktop)-Asher
+![](cal_webpage.jpg)
+![](cal3.jpg)
 **Mobile Design:**
 - Homepage Final Sketch (Mobile) - Jonna
 ![](home-mobile-final.jpg)
 
 - Signup Final Sketch (Mobile) - Ava
 ![Signup Mobile Final](signupsketch-mobile.jpg)
+
+- Calendar Final Sketch (Mobile) -Asher
+![](cal_mobile.jpg)
 
 ## Additional Comments (Milestone 1)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
