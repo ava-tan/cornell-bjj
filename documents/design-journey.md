@@ -5,7 +5,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 
 # Planning
 
-## Client Description (Milestone 1)
+## Client Description (Milestone 1) - Ava
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
 
@@ -36,7 +36,7 @@ Needs/Wants: [Brief Title]
 Need/Want: ...
 
 
-## User(s) (Milestone 1)
+## User(s) (Milestone 1) - Asher
 > Tell us about the users (target audience) for this website.
 
 
@@ -59,7 +59,7 @@ Need/Want: [Brief Title]
 Need/Want: ...
 
 
-## User Testing Plan (Milestone 1)
+## User Testing Plan (Milestone 1) - Jonna
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
 1.
@@ -71,14 +71,14 @@ Need/Want: ...
 4.
 
 
-## Content (Milestone 1)
+## Content (Milestone 1) - Jonna
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
 - TODO
 - TODO
 - ...
 
-## Interactivity Ideas (Milestone 1)
+## Interactivity Ideas (Milestone 1) - Leo
 > Come up with some idea for interactive features for your site.
 
 
@@ -90,8 +90,30 @@ Need/Want: ...
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
+* Card sorting
+    * Card Sort A:
+        * Like how sign up is on first page grouped with about the club
+        * What is jiu jitsu page, not sure about the videos + consent form grouping
+    ![Card Sort A](cardsortA.jpg)
+    * Card Sort B:
+        * Fourth group: everything you need to join the club
+        * Link between videos + outfitters?
+    ![Card Sort B](card_sort_b.JPG)
+    * Card Sort C:
+        * Calendar should be own page, what is the link between where/when + sign up for listserv
+        * images of team should be more central
+        * like about the club and what is jiu jitsu
+    ![Card Sort C](cardsortc.jpeg)
+    * Card Sort D:
+        * like the what is jiu jitsu grouping
+        * contact info should go with team officers
+        * like sign up and link together
+    ![Card Sort D](cardsortD.jpg)
+    * Final Card Sort:
 
-## Interactivity (Milestone 1)
+    ![Final Card Sort](finalcardsort.jpg)
+
+## Interactivity (Milestone 1) - Leo
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
 
