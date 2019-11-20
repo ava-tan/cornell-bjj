@@ -10,7 +10,7 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 1. To what goals do we all commit?
     - submit all milestones on time
-    - 
+    -
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
