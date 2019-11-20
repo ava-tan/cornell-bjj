@@ -61,21 +61,47 @@ Need/Want: ...
 ## User Testing Plan (Milestone 1) - Jonna
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
-1.
+You just got to Cornell for your first week of college! Having done jiu jitsu for several years, you really want to get involve in the Cornell jiu jitsu club and happened to stumble across their website.
 
-2.
+1. Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
 
-3.
+2. You want to see a few people on the team before you actually go to practice. Find the team roster and the contact information of four team members.
 
-4.
+3. After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 
+4. You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 
 ## Content (Milestone 1) - Jonna
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
-- TODO
-- TODO
-- ...
+- images
+  - club group photo
+  - jiu jitsu practice in action
+  - jiu jitsu uniform
+  - photos/headshots of the officers
+  - required items/equipment to get started
+- text
+  - description of the club
+  - where/when the club meets
+  - what is jiu jitsu?
+  - contact information of officers
+  - contact information of the club
+  - required items/equipment to get started
+  - where to get jiu jitsu uniforms
+  - team roster (names of members)
+- videos
+  - how to videos
+    - stretches to do at home
+    - introductory moves
+- forms
+  - sign up for listserv
+  - consent form (PDF)
+- calendar of jiu jitsu practices/events
+
+
+ of the team
+- description of the club
+- where/when the club meets
 
 ## Interactivity Ideas (Milestone 1) - Leo
 > Come up with some idea for interactive features for your site.
