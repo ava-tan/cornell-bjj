@@ -61,20 +61,40 @@ The primary purpose of this website is member recruitment and conversion. That m
 ## Discovering Users' Needs (Milestone 1) -Asher
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+![](kris.jpg)
+![](jessie.jpg)
 
 ## Users' Needs (Milestone 1) -Asher
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
-Need/Want: [Brief Title]
+Need/Want: Where/when
 - **Needs and Wants** [What do the users need and want?]
-  - TODO
+  - Needs to know when the club meets and where
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Will have the location and time of club meetings on the home page
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - TODO
+  - This was a common need, so it makes sense to have the information easily accessible as one of the first things the user sees on the site
 
-Need/Want: ...
+Need/Want: jiu-jitsu info
+- **Needs and Wants**
+    - Information about jiu-jitsu is relatively limited, so they need info about what it is
+- **Design Ideas and Choices**
+    - Have a dedicated jiu-jitsu page that includes a summary of what it is and tips about how to get started and improve
+- **Rationale**
+    - makes sense to have its own page so it doesn't crowd out other content
+    - makes the information easily accessible from the nav
+
+Need/Want: Responsiveness
+- **Needs/wants**
+    - users said they would probably access the website on the phone more than their Desktop
+    - needs mobile design to be easy to use
+- **Design Ideas and Choices**
+    - hamburger navigation so the site's easy to navigate on Mobile
+    - all content will scale down to mobile and font size will increase
+    - calendar will work on mobile as well
+- **rationale**
+    - It's easier to check things like times and events on the go using a phone, so this trend makes sense.
 
 
 ## User Testing Plan (Milestone 1) - Jonna
