@@ -23,7 +23,7 @@ See the course website for a detailed citation policy with more information on u
 
 **Place an x between the [] after you have completed each step.** (example: [x])
 
-- [] We have checked that each resource included in our submission adheres to the course citation policy.
+- [x] We have checked that each resource included in our submission adheres to the course citation policy.
 
     Failure to adhere to the citation policy will result in a _minimum_ of a letter grade penalty for the assignment.
 
