@@ -186,6 +186,10 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 - Home draft sketch - Jonna
 ![](home-draft-sketch.JPG)
 
+- Jiu-Jitsu Basics
+    - Videos (Asher)
+    ![](videos_desktop.jpg)
+
 - Calendar sketches- Asher
 ![](cal1.jpg)
 ![](cal2.jpg)
@@ -281,6 +285,10 @@ Task: [TODO: copy task here]
 - Homepage Final Sketch (Desktop) - Jonna
 ![](home-final-sketch.jpg)
 
+- Jiu-Jitsu Basics page
+    - Videos (Asher)
+    ![](videos_desktop.jpg)
+
 - Meet the Team Final Sketch (Desktop) - Leo
 ![](leodfinal.jpeg)
 - Signup Final Sketch (Desktop) - Ava
@@ -289,9 +297,15 @@ Task: [TODO: copy task here]
 - Calendar Final Sketches(Desktop)-Asher
 ![](cal_webpage.jpg)
 ![](cal3.jpg)
+
 **Mobile Design:**
+
 - Homepage Final Sketch (Mobile) - Jonna
 ![](home-mobile-final.jpg)
+
+- Jiu-Jitsu basics page
+    Videos (mobile)
+    ![](videos_mobile.jpg)
 
 - Meet the Team Final Sketch (Mobile) - Leo
 ![](leomfinal.jpeg)
