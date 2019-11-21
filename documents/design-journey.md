@@ -125,6 +125,11 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 ## Interactivity Ideas (Milestone 1) - Leo
 > Come up with some idea for interactive features for your site.
 
+- navigation bar will flicker when cursor goes over it
+- the form will be able to be filled out by the user
+- image gallery will be able to be scrolled through by the user
+- being able to navigate through the calendar.
+
 
 # Design & Evaluation
 
@@ -168,12 +173,14 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 - Calendar page sketch -Asher
 ![](cal_webpage.jpg)
 
-
+- Meet the Team Sketch - Leo
+![](leodraft.jpeg)
 - Signup draft sketch - Ava
 ![Desktop draft](signupsketch-1.jpg)
 
 ## Interactivity (Milestone 1) - Leo
-> What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
+Navigation bar, calendar, consent form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiujitsu club will meet, the navigation bar will make it easier for them to navigate and find the necessary information that they are looking for, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club.
+
 
 
 ## User Testing (_optional_)
@@ -254,6 +261,8 @@ Task: [TODO: copy task here]
 - Homepage Final Sketch (Desktop) - Jonna
 ![](home-final-sketch.jpg)
 
+- Meet the Team Final Sketch (Desktop) - Leo
+![](leodfinal.jpeg)
 - Signup Final Sketch (Desktop) - Ava
 ![Signup Final Desktop](signupsketch-final.jpg)
 
@@ -264,6 +273,8 @@ Task: [TODO: copy task here]
 - Homepage Final Sketch (Mobile) - Jonna
 ![](home-mobile-final.jpg)
 
+- Meet the Team Final Sketch (Mobile) - Leo
+![](leomfinal.jpeg)
 - Signup Final Sketch (Mobile) - Ava
 ![Signup Mobile Final](signupsketch-mobile.jpg)
 
