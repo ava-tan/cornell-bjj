@@ -189,13 +189,12 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 - Jiu-Jitsu Basics
     - Videos (Asher)
     ![](videos_desktop.jpg)
-    - Desktop draft - Ava
-    ![](basics1.jpg)
 
 - Calendar sketches- Asher
 ![](cal1.jpg)
 ![](cal2.jpg)
 ![](cal3.jpg)
+
 - Calendar page sketch -Asher
 ![](cal_webpage.jpg)
 
@@ -290,12 +289,10 @@ Task: [TODO: copy task here]
 - Jiu-Jitsu Basics page
     - Videos (Asher)
     ![](videos_desktop.jpg)
-    - Full page - Ava
-    ![](basicsfinal.jpg)
-
 
 - Meet the Team Final Sketch (Desktop) - Leo
 ![](leodfinal.jpeg)
+
 - Signup Final Sketch (Desktop) - Ava
 ![Signup Final Desktop](signupsketch-final.jpg)
 
@@ -312,11 +309,9 @@ Task: [TODO: copy task here]
     Videos (mobile)
     ![](videos_mobile.jpg)
 
-    Mobile
-    ![](basicsmobile.jpg)
-
 - Meet the Team Final Sketch (Mobile) - Leo
 ![](leomfinal.jpeg)
+
 - Signup Final Sketch (Mobile) - Ava
 ![Signup Mobile Final](signupsketch-mobile.jpg)
 

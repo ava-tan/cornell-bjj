@@ -1,0 +1,18 @@
+.calendar{
+    height:600px;
+    width:80%;
+    margin:10px auto;
+    display:flex;
+    flex-direction: column;
+}
+.calendar_days{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+ .calendar_days *{
+    border: 1px solid black;
+    width: 14%;
+    padding:1px;
+    height:20%;
+}
