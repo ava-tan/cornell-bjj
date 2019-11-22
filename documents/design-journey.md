@@ -8,7 +8,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Description (Milestone 1) - Ava
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
-
+Our client is the Cornell Brazilian Jiu Jitsu club. They would like a website for outreach to new members and to educate newcomers about what jiu jitsu is. Their key goals are to inform potential new members about the club and to make jiu jitsu more accessible to beginners.
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
@@ -16,6 +16,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
+The website's purpose is to educate potential new members about what jiu jitsu is and what the club is. Through the website, the club wants to make jiu jitsu more accessible to a larger audience, especially at Cornell.
 
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
@@ -25,16 +26,34 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
 
-Needs/Wants: [Brief Title]
+Needs/Wants:
 - **Needs and Wants** [What does your client need and want?]
-  - TODO
+  - Inform beginners about what jiu jitsu is
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Have a "Jiu Jitsu Basics" page that includes a summary of the sport and reference videos/what gear jiu jitsu entails
 - **Memo** [Justify your decisions; additional notes.]
-  - TODO
+  - Having a dedicated page will give newcomers a clear page to visit if they want to learn more about how to get started with the sport
 
-Need/Want: ...
+- **Needs and Wants**
+  - Calendar to show schedule
+- **Design Ideas and Choices**
+  - Include an interactive calendar that shows the schedule for practices/events
+- **Memo**
+    - Standalone calendar would make the events/schedule for the club clear and organized, members would be informed about events
 
+- **Needs and Wants**
+  - Information about the club, what they are, where they meet, and when
+- **Design Ideas and Choices**
+  - On the home page, include images and a summary of what the club is and when/where they meet
+- **Memo**
+  - Having the most essential information about the club on the home page will make the club more accessible to potential members
+
+- **Needs and Wants**
+  - A way for potential members to show interest in the club/sign up for more information
+- **Design Ideas and Choices**
+  - Include a form to sign up for listserv/show interest in the club
+- **Memo**
+  - Form can also include skill level
 
 ## User(s) (Milestone 1) - Asher
 The primary purpose of this website is member recruitment and conversion. That makes the intended audience for this site Cornell students who are not currently in the club, but who have an interest either in jiu-jitsu, more generally martial arts, or simply in finding a new way to stay fit while on campus.
@@ -42,20 +61,40 @@ The primary purpose of this website is member recruitment and conversion. That m
 ## Discovering Users' Needs (Milestone 1) -Asher
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+![](kris.jpg)
+![](jessie.jpg)
 
 ## Users' Needs (Milestone 1) -Asher
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
-Need/Want: [Brief Title]
+Need/Want: Where/when
 - **Needs and Wants** [What do the users need and want?]
-  - TODO
+  - Needs to know when the club meets and where
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Will have the location and time of club meetings on the home page
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - TODO
+  - This was a common need, so it makes sense to have the information easily accessible as one of the first things the user sees on the site
 
-Need/Want: ...
+Need/Want: jiu-jitsu info
+- **Needs and Wants**
+    - Information about jiu-jitsu is relatively limited, so they need info about what it is
+- **Design Ideas and Choices**
+    - Have a dedicated jiu-jitsu page that includes a summary of what it is and tips about how to get started and improve
+- **Rationale**
+    - makes sense to have its own page so it doesn't crowd out other content
+    - makes the information easily accessible from the nav
+
+Need/Want: Responsiveness
+- **Needs/wants**
+    - users said they would probably access the website on the phone more than their Desktop
+    - needs mobile design to be easy to use
+- **Design Ideas and Choices**
+    - hamburger navigation so the site's easy to navigate on Mobile
+    - all content will scale down to mobile and font size will increase
+    - calendar will work on mobile as well
+- **rationale**
+    - It's easier to check things like times and events on the go using a phone, so this trend makes sense.
 
 
 ## User Testing Plan (Milestone 1) - Jonna
@@ -106,6 +145,11 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 ## Interactivity Ideas (Milestone 1) - Leo
 > Come up with some idea for interactive features for your site.
 
+- navigation bar will flicker when cursor goes over it
+- the form will be able to be filled out by the user
+- image gallery will be able to be scrolled through by the user
+- being able to navigate through the calendar.
+
 
 # Design & Evaluation
 
@@ -138,12 +182,30 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 
     ![Final Card Sort](finalcardsort.jpg)
 
-##Initial Design Sketches
+## Initial Design Sketches
 - Home draft sketch - Jonna
 ![](home-draft-sketch.JPG)
 
+- Jiu-Jitsu Basics
+    - Videos (Asher)
+    ![](videos_desktop.jpg)
+
+- Calendar sketches- Asher
+![](cal1.jpg)
+![](cal2.jpg)
+![](cal3.jpg)
+
+- Calendar page sketch -Asher
+![](cal_webpage.jpg)
+
+- Meet the Team Sketch - Leo
+![](leodraft.jpeg)
+- Signup draft sketch - Ava
+![Desktop draft](signupsketch-1.jpg)
+
 ## Interactivity (Milestone 1) - Leo
-> What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
+Navigation bar, calendar, consent form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiujitsu club will meet, the navigation bar will make it easier for them to navigate and find the necessary information that they are looking for, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club.
+
 
 
 ## User Testing (_optional_)
@@ -224,11 +286,37 @@ Task: [TODO: copy task here]
 - Homepage Final Sketch (Desktop) - Jonna
 ![](home-final-sketch.jpg)
 
+- Jiu-Jitsu Basics page
+    - Videos (Asher)
+    ![](videos_desktop.jpg)
+
+- Meet the Team Final Sketch (Desktop) - Leo
+![](leodfinal.jpeg)
+
+- Signup Final Sketch (Desktop) - Ava
+![Signup Final Desktop](signupsketch-final.jpg)
+
+- Calendar Final Sketches(Desktop)-Asher
+![](cal_webpage.jpg)
+![](cal3.jpg)
 
 **Mobile Design:**
+
 - Homepage Final Sketch (Mobile) - Jonna
 ![](home-mobile-final.jpg)
 
+- Jiu-Jitsu basics page
+    Videos (mobile)
+    ![](videos_mobile.jpg)
+
+- Meet the Team Final Sketch (Mobile) - Leo
+![](leomfinal.jpeg)
+
+- Signup Final Sketch (Mobile) - Ava
+![Signup Mobile Final](signupsketch-mobile.jpg)
+
+- Calendar Final Sketch (Mobile) -Asher
+![](cal_mobile.jpg)
 
 ## Additional Comments (Milestone 1)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
