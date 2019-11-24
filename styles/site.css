@@ -1,68 +1,102 @@
 body{
-    margin:0;
+  margin:0;
+  font-family: 'SourceSansProLight';
 }
 @font-face {
-    font-family:"Alasti-Regular";
-    src:url('../fonts/Alasti-Regular.ttf') format('truetype');
+  font-family:"Alasti-Regular";
+  src:url('../fonts/Alasti-Regular.ttf') format('truetype');
 }
 @font-face {
-    font-family:"SourceSansProLight";
-    src: url("../fonts/SourceSansPro-Light.ttf") format('truetype');
+  font-family:"SourceSansProLight";
+  src: url("../fonts/SourceSansPro-Light.ttf") format('truetype');
 }
+
 header{
-    display:flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: black;
-    margin:0;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: black;
+  margin:0;
 }
+
 .logo{
-    width:200px;
-    height:200px;
-    border:1px solid white;
+  width:200px;
+  height:200px;
+  border:1px solid white;
 }
+
+/*Navigation Bar Styling*/
+
 nav{
-    height:200px;
-    width: 80%;
+  height:200px;
+  width: 80%;
 }
 .navigation{
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin:0;
-    margin-right:30px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin:0;
+  margin-right:30px;
 }
 
 .navigation a{
-    line-height: 200px;
-    text-decoration: none;
-    color:white;
-    font-family:"SourceSansProLight", sans-serif;
-    font-weight: bold;
-    font-size:20px;
-    text-transform: uppercase;
-    margin:auto 0;
-    letter-spacing: 0.3em;
+  line-height: 200px;
+  text-decoration: none;
+  color:white;
+  font-family:"SourceSansProLight", sans-serif;
+  font-weight: bold;
+  font-size:20px;
+  text-transform: uppercase;
+  margin:auto 0;
+  letter-spacing: 0.3em;
+
+}
+
+/*Homepage Styling - Jonna*/
+#placeholder{
+  width: 100%;
+}
+
+.description{
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#aboutheclub{
+
+}
+
+#wherewhen{
 
 }
 
 
+/*Calendar Styling - Asher*/
 .calendar{
-    height:600px;
-    width:80%;
-    margin:10px auto;
-    display:flex;
-    flex-direction: column;
+  height:600px;
+  width:80%;
+  margin:10px auto;
+  display:flex;
+  flex-direction: column;
 }
 .calendar_days{
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
- .calendar_days *{
-    border: 1px solid black;
-    width: 14%;
-    padding:1px;
-    height:20%;
+.calendar_days *{
+  border: 1px solid black;
+  width: 14%;
+  padding:1px;
+  height:20%;
+}
+
+/*Footer Styling*/
+.footer {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
