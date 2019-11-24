@@ -20,15 +20,15 @@ header{
 }
 
 .logo{
-  width:200px;
-  height:200px;
+  width:150px;
+  height:150px;
   border:1px solid white;
 }
 
 /*Navigation Bar Styling*/
 
 nav{
-  height:200px;
+  height:150px;
   width: 80%;
 }
 .navigation{
@@ -37,7 +37,8 @@ nav{
   flex-direction: row;
   justify-content: space-between;
   margin:0;
-  margin-right:30px;
+  margin-right:40px;
+  height: 150px;
 }
 
 .navigation a{
@@ -50,6 +51,23 @@ nav{
   text-transform: uppercase;
   margin:auto 0;
   letter-spacing: 0.3em;
+}
+
+/*Text Styling*/
+h1{
+
+}
+
+h2{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h3{
+
+}
+
+p{
 
 }
 
@@ -61,16 +79,27 @@ nav{
 .description{
   display: flex;
   flex-direction: row;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 
-#aboutheclub{
+#abouttheclub, #wherewhen{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+#abouttheclub{
+  margin-right: 10px;
 }
 
 #wherewhen{
+  margin-left: 10px;
+}
 
+.hidden{
+  display: none;
 }
 
 
@@ -99,4 +128,8 @@ nav{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footer p{
+  font-size: 12px;
 }
