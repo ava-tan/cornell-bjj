@@ -13,6 +13,7 @@ body{
 
 header{
   display:flex;
+  width: 100%;
   flex-direction: row;
   justify-content: space-between;
   background-color: black;
@@ -154,8 +155,56 @@ form{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0px;
 }
 
 .footer p{
   font-size: 12px;
+}
+
+
+/* tablet responsiveness*/
+@media (max-width: 800px) {
+
+html, body{
+  width: 100%;
+  height:100%;
+  margin:0;
+  padding:0;
+}
+
+/*Homepage Styling*/
+
+.description{
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#abouttheclub, #wherewhen{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#abouttheclub{
+  margin-right: auto;
+}
+
+#wherewhen{
+  margin-left: auto;
+}
+
+}
+
+
+
+
+/* mobile responsiveness*/
+@media (max-width: 600px) {
+
+
+
 }
