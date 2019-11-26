@@ -152,6 +152,9 @@ ul.basics-list{
     height:50px;
     margin:10px;
 }
+.calendar figcaption{
+    color:white;
+}
 
 .calendar_title{
     color:white;
@@ -223,6 +226,7 @@ ul.basics-list{
     background: none;
     border:none;
     font-size: 32px;
+    margin-right:10px;
 }
 .calendar_description_titles{
     display: flex;
@@ -324,7 +328,7 @@ nav{
     position: fixed;
     top:152px;
     flex-direction: column;
-    
+
 }
 /*Homepage Styling*/
 
