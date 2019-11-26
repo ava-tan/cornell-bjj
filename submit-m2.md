@@ -42,4 +42,4 @@ See the course website for a detailed citation policy with more information on u
 Each team member should sign their name and include today's date and time to submit **MILESTONE 2**.
 
 - Full Name of Each Contributing Team Member: Asher Lipman, Jonna Chen, Leo Park, Ava Tan
-- Date & Time: 11/26 & 1:58 PM
+- Date & Time: 11/26 & 2:02 PM
