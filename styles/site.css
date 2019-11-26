@@ -1,6 +1,6 @@
 body{
   margin:0;
-  font-family: 'SourceSansProLight';
+  font-family: 'SourceSansProLight', sans-serif;
 }
 @font-face {
   font-family:"Alasti-Regular";
@@ -50,17 +50,26 @@ nav{
   font-size:20px;
   text-transform: uppercase;
   margin:auto 0;
-  letter-spacing: 0.3em;
+  letter-spacing: 0.2em;
+}
+nav ul li{
+    margin: 0px 10px;
 }
 
 /*Text Styling*/
 h1{
 
 }
-
+.sign-up{
+  text-align: center;
+}
 h2{
   font-weight: bold;
   font-size: 30px;
+}
+.basics{
+  text-align: center;
+
 }
 
 h3{
@@ -102,6 +111,13 @@ p{
   display: none;
 }
 
+/*Jiu Jitsu Basics Styling*/
+.info{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 /*Calendar Styling - Asher*/
 .calendar{
@@ -121,6 +137,16 @@ p{
   width: 14%;
   padding:1px;
   height:20%;
+}
+/* Signups Styling - Ava*/
+
+form{
+  text-align: center;
+}
+
+.align{
+  display: inline-block;
+  text-align: right;
 }
 
 /*Footer Styling*/
