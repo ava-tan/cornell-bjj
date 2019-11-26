@@ -19,7 +19,8 @@ header{
 .logo{
     width:200px;
     height:200px;
-    border:1px solid white;
+    border:1px solid black;
+    background: white;
 }
 nav{
     height:200px;
@@ -44,17 +45,44 @@ nav{
     text-transform: uppercase;
     margin:auto 0;
     letter-spacing: 0.3em;
-
+}
+.navigation a:hover{
+    font-size: 24px;
 }
 
-
+/*calendar site stuff*/
 .calendar{
     height:600px;
     width:80%;
-    margin:10px auto;
+    margin:20px auto;
     display:flex;
     flex-direction: column;
+    border:1px solid black;
 }
+.calendar_header{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    justify-content: space-between;
+    background-color: black;
+}
+.calendar_nav{
+    width: 75px;
+    height:75px;
+}
+.calendar_title{
+    color:white;
+}
+.day_titles ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+}
+.day_titles ul *{
+    width:14%;
+}
+
 .calendar_days{
     display:flex;
     flex-direction: row;
