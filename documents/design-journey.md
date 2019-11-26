@@ -145,7 +145,7 @@ of the team
 ## Interactivity Ideas (Milestone 1) - Leo
 > Come up with some idea for interactive features for your site.
 
-- navigation bar will flicker when cursor goes over it
+
 - the form will be able to be filled out by the user
 - image gallery will be able to be scrolled through by the user
 - being able to navigate through the calendar.
@@ -206,7 +206,7 @@ of the team
 ![Desktop draft](signupsketch-1.jpg)
 
 ## Interactivity (Milestone 1) - Leo
-Navigation bar, calendar, consent form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiujitsu club will meet, the navigation bar will make it easier for them to navigate and find the necessary information that they are looking for, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club.
+Calendar, consent form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiujitsu club will meet, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club.
 
 
 
