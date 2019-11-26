@@ -23,58 +23,83 @@
         </header>
         <div class="calendar">
             <div class="calendar_header">
-                <input type="image" src="images/backward_icon.png" alt="<" class="calendar_nav" id="previous_month" />
+                <input type="image" src="images/backward_icon1.png" alt="<" class="calendar_nav" id="previous_month" />
                 <h2 class="calendar_title">Placeholder title</h2>
-                <input type="image" src="images/forward_icon.png" class="calendar_nav" id="next_month" alt=">" />
+                <input type="image" src="images/forward1_icon.png" class="calendar_nav" id="next_month" alt=">" />
             </div>
-            <div class="day_titles">
-                <ul>
-                    <li>Sunday</li>
-                    <li>Monday</li>
-                    <li>Tuesday</li>
-                    <li>Wednesday</li>
-                    <li>Thursday</li>
-                    <li>Friday</li>
-                    <li>Saturday</li>
-                </ul>
-            </div>
+            <ul class="day_titles">
+                <li class="desktop">Sunday</li>
+                <li class="desktop">Monday</li>
+                <li class="desktop">Tuesday</li>
+                <li class="desktop">Wednesday</li>
+                <li class="desktop">Thursday</li>
+                <li class="desktop">Friday</li>
+                <li class="desktop">Saturday</li>
+
+                <li class="mobile">S</li>
+                <li class="mobile">M</li>
+                <li class="mobile">T</li>
+                <li class="mobile">W</li>
+                <li class="mobile">TH</li>
+                <li class="mobile">F</li>
+                <li class="mobile">S</li>
+            </ul>
+
             <div class="calendar_days">
-                <div class="Sunday1"></div>
-                <div class="Monday1"></div>
-                <div class="Tuesday1"></div>
-                <div class="Wednesday1"></div>
-                <div class="Thursday1"></div>
-                <div class="Friday1"></div>
-                <div class="Saturday1"></div>
-                <div class="Sunday2"></div>
-                <div class="Monday2"></div>
-                <div class="Tuesday2"></div>
-                <div class="Wednesday2"></div>
-                <div class="Thursday2"></div>
-                <div class="Friday2"></div>
-                <div class="Saturday2"></div>
-                <div class="Sunday3"></div>
-                <div class="Monday3"></div>
-                <div class="Tuesday3"></div>
-                <div class="Wednesday3"></div>
-                <div class="Thursday3"></div>
-                <div class="Friday3"></div>
-                <div class="Saturday3"></div>
-                <div class="Sunday4"></div>
-                <div class="Monday4"></div>
-                <div class="Tuesday4"></div>
-                <div class="Wednesday4"></div>
-                <div class="Thursday4"></div>
-                <div class="Friday4"></div>
-                <div class="Saturday4"></div>
-                <div class="Sunday5"></div>
-                <div class="Monday5"></div>
-                <div class="Tueday5"></div>
-                <div class="Wednesday5"></div>
-                <div class="Thursday5"></div>
-                <div class="Friday5"></div>
-                <div class="Saturday5"></div>
+                <div id="Sunday1"></div>
+                <div id="Monday1"></div>
+                <div id="Tuesday1"></div>
+                <div id="Wednesday1"></div>
+                <div id="Thursday1"></div>
+                <div id="Friday1"></div>
+                <div id="Saturday1"></div>
+                <div id="Sunday2"></div>
+                <div id="Monday2"></div>
+                <div id="Tuesday2"></div>
+                <div id="Wednesday2"></div>
+                <div id="Thursday2"></div>
+                <div id="Friday2"></div>
+                <div id="Saturday2"></div>
+                <div id="Sunday3"></div>
+                <div id="Monday3"></div>
+                <div id="Tuesday3"></div>
+                <div id="Wednesday3"></div>
+                <div id="Thursday3"></div>
+                <div id="Friday3"></div>
+                <div id="Saturday3"></div>
+                <div id="Sunday4"></div>
+                <div id="Monday4"></div>
+                <div id="Tuesday4"></div>
+                <div id="Wednesday4"></div>
+                <div id="Thursday4"></div>
+                <div id="Friday4"></div>
+                <div id="Saturday4"></div>
+                <div id="Sunday5"></div>
+                <div id="Monday5"></div>
+                <div id="Tueday5"></div>
+                <div id="Wednesday5"></div>
+                <div id="Thursday5"></div>
+                <div id="Friday5"></div>
+                <div id="Saturday5"></div>
             </div>
         </div>
+        <div class="pop_up">
+            <div class="pop_up_header">
+                <h2 class="pop_up_title">Day Placeholder</h2>
+                <button id="pop_up_close" type="button">&times;</button>
+            </div>
+            <div class="calendar_description_titles">
+                <h3>Times</h3>
+                <h3>Event Description</h3>
+            </div>
+            <div class="calendar_descriptions">
+                <div class="times"></div>
+                <div class="events"></div>
+            </div>
+        </div>
+        <div class = "footer">
+          <p>Website Created By Asher Lipman, Ava Tan, Jonna Chen, and Leo Park, 2019.</p>
+        </div>
+
     </body>
 </html>

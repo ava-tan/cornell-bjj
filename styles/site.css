@@ -58,12 +58,24 @@ nav{
     font-size: 24px;
 }
 
+/*Basics styling*/
+.videos{
+    display: flex;
+    flex-direction: row;
+}
+.videos *{
+    width:100px;
+    height:100px;
+    border:1px solid black;
+    background: red;
+    margin:10px;
+}
 
 /*calendar site stuff*/
 .calendar{
-    height:600px;
+    height:700px;
     width:80%;
-    margin:20px auto;
+    margin:50px auto;
     display:flex;
     flex-direction: column;
     border:1px solid black;
@@ -74,45 +86,120 @@ nav{
     width:100%;
     justify-content: space-between;
     background-color: black;
+    height:75px;
 }
 .calendar_nav{
-    width: 75px;
-    height:75px;
-  line-height: 200px;
-  text-decoration: none;
-  color:white;
-  font-family:"SourceSansProLight", sans-serif;
-  font-weight: bold;
-  font-size:20px;
-  text-transform: uppercase;
-  margin:auto 0;
-  letter-spacing: 0.2em;
+    width: 50px;
+    height:50px;
+    margin:10px;
 }
 
 .calendar_title{
     color:white;
+    font-family:"SourceSansProLight", sans-serif;
+    font-weight: bold;
+    font-size:24px;
+    text-transform: uppercase;
+    margin:auto 0;
+    letter-spacing: 0.2em;
 }
-.day_titles ul{
-    display: flex;
+.day_titles{
+    display:flex;
     flex-direction: row;
     list-style: none;
-    justify-content: space-between;
+    flex-wrap:nowrap;
+    background-color: #3a9fa6;
+    color:white;
+    height:40px;
+    line-height: 40px;
+    margin:0px;
+    padding:0px;
+    font-size: 24px;
 }
-.day_titles ul *{
-    width:14%;
+.day_titles .mobile{
+    display:none;
 }
-
+.day_titles *{
+    width:calc(100% / 7);
+    text-align: center;
+    font-weight: bold;
+}
 .calendar_days{
   display:flex;
   flex-direction: row;
   flex-wrap: wrap;
+  width:100%;
+  height:calc(100% - 75px - 40px);
 }
 .calendar_days *{
   border: 1px solid black;
-  width: 14%;
-  padding:1px;
-  height:20%;
+  width: calc((100% / 7) - 2px);
+  height:calc(20% - 2px);
 }
+
+.pop_up{
+    border:2px solid black;
+    height:400px;
+    width:50%;
+    position:fixed;
+    margin:auto auto;
+    top:calc(50% - 200px);
+    left:25%;
+}
+.pop_up_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:0 20px;
+    background: black;
+    height:60px;
+}
+.pop_up_title{
+    margin-left: 20px;
+    color: white;
+}
+.pop_up button{
+    color:white;
+    background: none;
+    border:none;
+    font-size: 32px;
+}
+.calendar_description_titles{
+    display: flex;
+    flex-direction: row;
+    background: #3a9fa6;
+    height:40px;
+    line-height: 40px;
+}
+.calendar_description_titles h3:first-child{
+    width: 30%;
+}
+.calendar_description_titles h3{
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    width:100%;
+    margin:0;
+
+}
+.calendar_descriptions{
+    background: white;
+    height: calc(100% - 100px);
+    display:flex;
+    flex-direction: row;
+}
+.times{
+    width: 30%;
+    height:100%;
+    border-right: 2px solid black;
+}
+.events{
+    width: 70%;
+    height:100%;
+    border-left:2px solid black;
+}
+/* end of calendar */
+
 /* Signups Styling - Ava*/
 
 form{
@@ -170,6 +257,32 @@ html, body{
 #wherewhen{
   margin-left: auto;
 }
+
+/*calendar stuff*/
+.calendar{
+    height:400px;
+}
+.pop_up{
+    position:relative;
+    top:0;
+    left:0;
+    margin:10px auto;
+    width:80%;
+}
+.pop_up_header{
+    display: none;
+}
+.calendar_descriptions{
+    height:calc(100% - 40px);
+}
+.day_titles .desktop{
+    display: none;
+}
+.day_titles .mobile{
+    display:inline-block;
+}
+/*end of calendar*/
+
 
 }
 
