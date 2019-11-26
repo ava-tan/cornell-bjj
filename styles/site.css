@@ -34,6 +34,7 @@ h1{
   text-align: center;
 }
 h2{
+  font-size: 30px;
 
 }
 .basics{
@@ -79,9 +80,10 @@ nav{
 }
 /*Homepage Styling*/
 
-#placeholder{
+.carousel{
   width: 100%;
 }
+
 .description{
   display: flex;
   flex-direction: row;
@@ -97,11 +99,17 @@ nav{
 }
 
 #abouttheclub{
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 #wherewhen{
-  margin-left: 10px;
+  margin-left: 20px;
+}
+
+#beltsystem{
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 /*Basics styling*/
