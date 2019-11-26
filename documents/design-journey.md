@@ -368,7 +368,28 @@ when DOM is loaded:
     show Monday's soup and Monday's daily special
 
 ```
-
+Sign Up Form:
+```
+When the user tries to submit the form:  
+    If the name HTML5 validation criteria has not been met:  
+        Show the feedback message, "Must enter a valid name."  
+        Do not submit the form.  
+    If the email HTML5 validation criteria has not been met:  
+        Show the feedback message, "Must enter a valid email address."  
+        Do not submit the form.  
+    If the days attended HTML5 validation criteria has not been met:  
+        Show the feedback message, "Must check at least one box."
+        Do not submit the form.  
+    If the rate your time at the festival HTML5 validation criteria has not been met:  
+        Show the feedback message, "Must select one option."
+        Do not submit the form.  
+    If the emails HTML5 validation criteria has not been met:  
+        Show the feedback message, "Must select one option."
+        Do not submit the form.
+    Otherwise,  
+        Show no feedback message.  
+        Submit the form to the server.
+```
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
