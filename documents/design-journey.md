@@ -376,16 +376,9 @@ When the user tries to submit the form:
         Do not submit the form.  
     If the email HTML5 validation criteria has not been met:  
         Show the feedback message, "Must enter a valid email address."  
-        Do not submit the form.  
-    If the days attended HTML5 validation criteria has not been met:  
-        Show the feedback message, "Must check at least one box."
-        Do not submit the form.  
-    If the rate your time at the festival HTML5 validation criteria has not been met:  
-        Show the feedback message, "Must select one option."
-        Do not submit the form.  
-    If the emails HTML5 validation criteria has not been met:  
-        Show the feedback message, "Must select one option."
-        Do not submit the form.
+        Do not submit the form.   
+    If the interest textbox HTML5 validation criteria has not been met:
+        Show the feedback message, "Please input a response that is between 10 to 500 characters in length."
     Otherwise,  
         Show no feedback message.  
         Submit the form to the server.
