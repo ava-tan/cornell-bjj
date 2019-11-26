@@ -28,32 +28,32 @@ The website's purpose is to educate potential new members about what jiu jitsu i
 
 Needs/Wants:
 - **Needs and Wants** [What does your client need and want?]
-  - Inform beginners about what jiu jitsu is
+- Inform beginners about what jiu jitsu is
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - Have a "Jiu Jitsu Basics" page that includes a summary of the sport and reference videos/what gear jiu jitsu entails
+- Have a "Jiu Jitsu Basics" page that includes a summary of the sport and reference videos/what gear jiu jitsu entails
 - **Memo** [Justify your decisions; additional notes.]
-  - Having a dedicated page will give newcomers a clear page to visit if they want to learn more about how to get started with the sport
+- Having a dedicated page will give newcomers a clear page to visit if they want to learn more about how to get started with the sport
 
 - **Needs and Wants**
-  - Calendar to show schedule
+- Calendar to show schedule
 - **Design Ideas and Choices**
-  - Include an interactive calendar that shows the schedule for practices/events
+- Include an interactive calendar that shows the schedule for practices/events
 - **Memo**
-    - Standalone calendar would make the events/schedule for the club clear and organized, members would be informed about events
+- Standalone calendar would make the events/schedule for the club clear and organized, members would be informed about events
 
 - **Needs and Wants**
-  - Information about the club, what they are, where they meet, and when
+- Information about the club, what they are, where they meet, and when
 - **Design Ideas and Choices**
-  - On the home page, include images and a summary of what the club is and when/where they meet
+- On the home page, include images and a summary of what the club is and when/where they meet
 - **Memo**
-  - Having the most essential information about the club on the home page will make the club more accessible to potential members
+- Having the most essential information about the club on the home page will make the club more accessible to potential members
 
 - **Needs and Wants**
-  - A way for potential members to show interest in the club/sign up for more information
+- A way for potential members to show interest in the club/sign up for more information
 - **Design Ideas and Choices**
-  - Include a form to sign up for listserv/show interest in the club
+- Include a form to sign up for listserv/show interest in the club
 - **Memo**
-  - Form can also include skill level
+- Form can also include skill level
 
 ## User(s) (Milestone 1) - Asher
 The primary purpose of this website is member recruitment and conversion. That makes the intended audience for this site Cornell students who are not currently in the club, but who have an interest either in jiu-jitsu, more generally martial arts, or simply in finding a new way to stay fit while on campus.
@@ -70,31 +70,31 @@ The primary purpose of this website is member recruitment and conversion. That m
 
 Need/Want: Where/when
 - **Needs and Wants** [What do the users need and want?]
-  - Needs to know when the club meets and where
+- Needs to know when the club meets and where
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - Will have the location and time of club meetings on the home page
+- Will have the location and time of club meetings on the home page
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - This was a common need, so it makes sense to have the information easily accessible as one of the first things the user sees on the site
+- This was a common need, so it makes sense to have the information easily accessible as one of the first things the user sees on the site
 
 Need/Want: jiu-jitsu info
 - **Needs and Wants**
-    - Information about jiu-jitsu is relatively limited, so they need info about what it is
+- Information about jiu-jitsu is relatively limited, so they need info about what it is
 - **Design Ideas and Choices**
-    - Have a dedicated jiu-jitsu page that includes a summary of what it is and tips about how to get started and improve
+- Have a dedicated jiu-jitsu page that includes a summary of what it is and tips about how to get started and improve
 - **Rationale**
-    - makes sense to have its own page so it doesn't crowd out other content
-    - makes the information easily accessible from the nav
+- makes sense to have its own page so it doesn't crowd out other content
+- makes the information easily accessible from the nav
 
 Need/Want: Responsiveness
 - **Needs/wants**
-    - users said they would probably access the website on the phone more than their Desktop
-    - needs mobile design to be easy to use
+- users said they would probably access the website on the phone more than their Desktop
+- needs mobile design to be easy to use
 - **Design Ideas and Choices**
-    - hamburger navigation so the site's easy to navigate on Mobile
-    - all content will scale down to mobile and font size will increase
-    - calendar will work on mobile as well
+- hamburger navigation so the site's easy to navigate on Mobile
+- all content will scale down to mobile and font size will increase
+- calendar will work on mobile as well
 - **rationale**
-    - It's easier to check things like times and events on the go using a phone, so this trend makes sense.
+- It's easier to check things like times and events on the go using a phone, so this trend makes sense.
 
 
 ## User Testing Plan (Milestone 1) - Jonna
@@ -114,31 +114,31 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
 - images
-  - club group photo
-  - jiu jitsu practice in action
-  - jiu jitsu uniform
-  - photos/headshots of the officers
-  - required items/equipment to get started
+- club group photo
+- jiu jitsu practice in action
+- jiu jitsu uniform
+- photos/headshots of the officers
+- required items/equipment to get started
 - text
-  - description of the club
-  - where/when the club meets
-  - what is jiu jitsu?
-  - contact information of officers
-  - contact information of the club
-  - required items/equipment to get started
-  - where to get jiu jitsu uniforms
-  - team roster (names of members)
+- description of the club
+- where/when the club meets
+- what is jiu jitsu?
+- contact information of officers
+- contact information of the club
+- required items/equipment to get started
+- where to get jiu jitsu uniforms
+- team roster (names of members)
 - videos
-  - how to videos
-    - stretches to do at home
-    - introductory moves
+- how to videos
+- stretches to do at home
+- introductory moves
 - forms
-  - sign up for listserv
-  - consent form (PDF)
+- sign up for listserv
+- consent form (PDF)
 - calendar of jiu jitsu practices/events
 
 
- of the team
+of the team
 - description of the club
 - where/when the club meets
 
@@ -160,37 +160,37 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
 * Card sorting
-    * Card Sort A:
-        * Like how sign up is on first page grouped with about the club
-        * What is jiu jitsu page, not sure about the videos + consent form grouping
-    ![Card Sort A](cardsortA.jpg)
-    * Card Sort B:
-        * Fourth group: everything you need to join the club
-        * Link between videos + outfitters?
-    ![Card Sort B](card_sort_b.JPG)
-    * Card Sort C:
-        * Calendar should be own page, what is the link between where/when + sign up for listserv
-        * images of team should be more central
-        * like about the club and what is jiu jitsu
-    ![Card Sort C](cardsortc.jpeg)
-    * Card Sort D:
-        * like the what is jiu jitsu grouping
-        * contact info should go with team officers
-        * like sign up and link together
-    ![Card Sort D](cardsortD.jpg)
-    * Final Card Sort:
+* Card Sort A:
+* Like how sign up is on first page grouped with about the club
+* What is jiu jitsu page, not sure about the videos + consent form grouping
+![Card Sort A](cardsortA.jpg)
+* Card Sort B:
+* Fourth group: everything you need to join the club
+* Link between videos + outfitters?
+![Card Sort B](card_sort_b.JPG)
+* Card Sort C:
+* Calendar should be own page, what is the link between where/when + sign up for listserv
+* images of team should be more central
+* like about the club and what is jiu jitsu
+![Card Sort C](cardsortc.jpeg)
+* Card Sort D:
+* like the what is jiu jitsu grouping
+* contact info should go with team officers
+* like sign up and link together
+![Card Sort D](cardsortD.jpg)
+* Final Card Sort:
 
-    ![Final Card Sort](finalcardsort.jpg)
+![Final Card Sort](finalcardsort.jpg)
 
 ## Initial Design Sketches
 - Home draft sketch - Jonna
 ![](home-draft-sketch.JPG)
 
 - Jiu-Jitsu Basics
-    - Videos (Asher)
-    ![](videos_desktop.jpg)
-    - Full Page
-    ![](basics1.jpg)
+- Videos (Asher)
+![](videos_desktop.jpg)
+- Full Page
+![](basics1.jpg)
 
 - Calendar sketches- Asher
 ![](cal1.jpg)
@@ -232,17 +232,17 @@ Navigation bar, calendar, consent form, and image gallery. All this meets the ne
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+- TODO
 - **Your reflections about the user’s performance to the task**
-  - TODO
+- TODO
 - **Re-design choices**
-  - TODO
+- TODO
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+- TODO: Justify your decisions; additional notes.
 
 ...
 
@@ -266,17 +266,17 @@ Task: [TODO: copy task here]
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+- TODO
 - **Your reflections about the user’s performance to the task**
-  - TODO
+- TODO
 - **Re-design choices**
-  - TODO
+- TODO
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+- TODO: Justify your decisions; additional notes.
 
 ...
 
@@ -289,10 +289,10 @@ Task: [TODO: copy task here]
 ![](home-final-sketch.jpg)
 
 - Jiu-Jitsu Basics page
-    - Videos (Asher)
-    ![](videos_desktop.jpg)
-    - Full page
-    ![](basicsfinal.jpg)
+- Videos (Asher)
+![](videos_desktop.jpg)
+- Full page
+![](basicsfinal.jpg)
 - Meet the Team Final Sketch (Desktop) - Leo
 ![](leodfinal.jpeg)
 
@@ -309,11 +309,11 @@ Task: [TODO: copy task here]
 ![](home-mobile-final.jpg)
 
 - Jiu-Jitsu basics page
-    Videos (mobile)
-    ![](videos_mobile.jpg)
+Videos (mobile)
+![](videos_mobile.jpg)
 
-    Full page (mobile)
-    ![](basicsmobile.jpg)
+Full page (mobile)
+![](basicsmobile.jpg)
 - Meet the Team Final Sketch (Mobile) - Leo
 ![](leomfinal.jpeg)
 
@@ -335,82 +335,85 @@ Task: [TODO: copy task here]
 > You have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.
 
 - Fundamentals Class Schedule
-  - Monday 8-9PM
-  - Friday 6:30-7:30PM
+- Monday 8-9PM
+- Friday 6:30-7:30PM
 - Regular Class Schedule
-  - Monday 8-9PM
-  - Wednesday 7:30-8:30PM
-  - Friday 6:30-7:30PM
+- Monday 8-9PM
+- Wednesday 7:30-8:30PM
+- Friday 6:30-7:30PM
 
 - Uniform is not required (just optional/suggested)
 - Change to "What to Wear" instead of "Required Items"
 - Stress that "MMA-related"
 - Videos Ideas:
-  - Five minute round
-  - How to tie your belt
-  - How to roll
-  - Want cool, high quality videos
+- Five minute round
+- How to tie your belt
+- How to roll
+- Want cool, high quality videos
 - Questions/Contact Form for interactivity
 - FAQ content/page?
 
 - Meet the Team Page
-  - Team officer bios?
-  - Info about Tony Greenberg (his lineage, etc.)
+- Team officer bios?
+- Info about Tony Greenberg (his lineage, etc.)
 
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
 
-Calendar pseudocode:
-
-    How the data is stored:
-        ```
-            1. create a list of all months the web owner has events for
-            2. Link each month to the number of days in that month
-            3. Link each month to a list of days in that month
-            4. Link each day to a nested list containing one list of times and one list of events.
-        ```
-
-    How the data is displayed:
-        ```
-            1. Use javascript to get the current month
-            2. Find that month in the list
-            3. Use js to find the first day of that month
-            4. Starting from that day, add the date to each box on the calendar
-            5. Add the name of the month to the title of the calendar header
-
-            When a day is clicked:
-                1. Find the relevant day's time and events
-                2. Add to the pop up's time field the list of Times
-                3. add to the event field the list of events
-                4. set the pop up display to fixed.
-                5. Set the pop up title to the date
-
-            When the close button is clicked:
-                1. set the pop_up display to none
-        ```
-
-Example:
+Image Gallery Pseudocode (Jonna):
 ```
-when DOM is loaded:
-
-  if today is a monday:
-    show Monday's soup and Monday's daily special
-
+1. Create a variable that has a value of 0
+2. Set interval to 1000 and call the "change_image" function every time the interval 1000 starts and ends (use setInterval function)
+3. Within the "change_image" function:
+a. If the image is carousel-1.jpg, hide carousel-1.jpg and show carousel-2.jpg
+b. If the image is carousel-2.jpg, hide carousel-2.jpg and show carousel-3.jpg
+c. If the image is carousel-3.jpg, hide carousel-3.jpg and show carousel-4.jpg
+d. If the image is carousel-4.jpg, hide carousel-4.jpg and show carousel-1.jpg
 ```
-Sign Up Form:
+
+Calendar pseudocode (Asher):
+
+How the data is stored:
+```
+1. create a list of all months the web owner has events for
+2. Link each month to the number of days in that month
+3. Link each month to a list of days in that month
+4. Link each day to a nested list containing one list of times and one list of events.
+```
+
+How the data is displayed:
+```
+1. Use javascript to get the current month
+2. Find that month in the list
+3. Use js to find the first day of that month
+4. Starting from that day, add the date to each box on the calendar
+5. Add the name of the month to the title of the calendar header
+
+When a day is clicked:
+1. Find the relevant day's time and events
+2. Add to the pop up's time field the list of Times
+3. add to the event field the list of events
+4. set the pop up display to fixed.
+5. Set the pop up title to the date
+
+When the close button is clicked:
+1. set the pop_up display to none
+```
+
+Sign Up Form Pseudocode (Ava):
 ```
 When the user tries to submit the form:  
-    If the name HTML5 validation criteria has not been met:  
-        Show the feedback message, "Must enter a valid name."  
-        Do not submit the form.  
-    If the email HTML5 validation criteria has not been met:  
-        Show the feedback message, "Must enter a valid email address."  
-        Do not submit the form.   
-    If the interest textbox HTML5 validation criteria has not been met:
-        Show the feedback message, "Please input a response that is between 10 to 500 characters in length."
-    Otherwise,  
-        Show no feedback message.  
-        Submit the form to the server.
+If the name HTML5 validation criteria has not been met:  
+Show the feedback message, "Must enter a valid name."  
+Do not submit the form.  
+If the email HTML5 validation criteria has not been met:  
+Show the feedback message, "Must enter a valid email address."  
+Do not submit the form.   
+If the interest textbox HTML5 validation criteria has not been met:
+Show the feedback message, "Please input a response that is between 10 to 500 characters in length."
+Otherwise,  
+Show no feedback message.  
+Submit the form to the server.
 ```
 
 ## Additional Comments (Milestone 2)
@@ -455,17 +458,17 @@ When the user tries to submit the form:
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+- TODO
 - **Your reflections about the user’s performance to the task**
-  - TODO
+- TODO
 - **Re-design choices**
-  - TODO
+- TODO
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+- TODO: Justify your decisions; additional notes.
 
 ...
 
@@ -489,17 +492,17 @@ Task: [TODO: copy task here]
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+- TODO
 - **Your reflections about the user’s performance to the task**
-  - TODO
+- TODO
 - **Re-design choices**
-  - TODO
+- TODO
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+- TODO: Justify your decisions; additional notes.
 
 ...
 
@@ -523,17 +526,17 @@ Task: [TODO: copy task here]
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+- TODO
 - **Your reflections about the user’s performance to the task**
-  - TODO
+- TODO
 - **Re-design choices**
-  - TODO
+- TODO
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+- TODO: Justify your decisions; additional notes.
 
 ...
 
@@ -557,17 +560,17 @@ Task: [TODO: copy task here]
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+- TODO
 - **Your reflections about the user’s performance to the task**
-  - TODO
+- TODO
 - **Re-design choices**
-  - TODO
+- TODO
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+- TODO: Justify your decisions; additional notes.
 
 ...
 

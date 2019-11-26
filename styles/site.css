@@ -34,6 +34,7 @@ h1{
   text-align: center;
 }
 h2{
+  font-size: 30px;
 
 }
 .basics{
@@ -41,7 +42,13 @@ h2{
 
 }
 /*Navigation Bar Styling*/
-
+#hamburger{
+    background: none;
+    border: none;
+    color:white;
+    font-size: 32px;
+    margin-right:20px;
+}
 nav{
   height:150px;
   width: 80%;
@@ -71,11 +78,47 @@ nav{
 .navigation a:hover{
     font-size: 21px;
 }
+/*Homepage Styling*/
+
+.carousel{
+  width: 100%;
+}
+
+.description{
+  display: flex;
+  flex-direction: row;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#abouttheclub, #wherewhen{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#abouttheclub{
+  margin-right: 20px;
+}
+
+#wherewhen{
+  margin-left: 20px;
+}
+
+#beltsystem{
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
 
 /*Basics styling*/
 .videos{
     display: flex;
     flex-direction: row;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .videos *{
     width:100px;
@@ -85,12 +128,12 @@ nav{
     margin:10px;
 }
 p.basics-text{
-  width: 500px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
 ul.basics-list{
-  width: 300px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -164,6 +207,9 @@ img#instructor{
     height:50px;
     margin:10px;
 }
+.calendar figcaption{
+    color:white;
+}
 
 .calendar_title{
     color:white;
@@ -173,6 +219,7 @@ img#instructor{
     text-transform: uppercase;
     margin:auto 0;
     letter-spacing: 0.2em;
+    text-align: center;
 }
 .day_titles{
     display:flex;
@@ -187,7 +234,7 @@ img#instructor{
     padding:0px;
     font-size: 24px;
 }
-.day_titles .mobile{
+.mobile{
     display:none;
 }
 .day_titles *{
@@ -234,6 +281,7 @@ img#instructor{
     background: none;
     border:none;
     font-size: 32px;
+    margin-right:10px;
 }
 .calendar_description_titles{
     display: flex;
@@ -275,6 +323,17 @@ img#instructor{
 
 form{
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  width:100%;
+}
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+
 }
 
 .align{
@@ -288,9 +347,13 @@ form{
     font-size: 14px;
     color: red;
 }
+.waiver{
+  text-align: center;
+}
 button {
     margin: 10px 30% 0;
 }
+
 /*Footer Styling*/
 .footer {
   text-align: center;
@@ -313,7 +376,15 @@ html, body{
   margin:0;
   padding:0;
 }
+/*nav styling*/
+nav{
+    width:100%;
+    height: calc(100% - 152px);
+    position: fixed;
+    top:152px;
+    flex-direction: column;
 
+}
 /*Homepage Styling*/
 
 .description{
@@ -342,6 +413,14 @@ html, body{
 .calendar{
     height:400px;
 }
+.calendar_nav{
+    width:30px;
+    height:30px;
+}
+.calendar_title{
+    font-size: 18px;
+
+}
 .pop_up{
     position:relative;
     top:0;
@@ -355,10 +434,10 @@ html, body{
 .calendar_descriptions{
     height:calc(100% - 40px);
 }
-.day_titles .desktop{
+.desktop{
     display: none;
 }
-.day_titles .mobile{
+.mobile{
     display:inline-block;
 }
 /*end of calendar*/
