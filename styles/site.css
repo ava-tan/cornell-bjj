@@ -26,6 +26,20 @@ header{
   border:1px solid white;
 }
 
+/*Text Styling*/
+h1{
+
+}
+.sign-up{
+  text-align: center;
+}
+h2{
+
+}
+.basics{
+  text-align: center;
+
+}
 /*Navigation Bar Styling*/
 
 nav{
@@ -49,13 +63,13 @@ nav{
     color:white;
     font-family:"SourceSansProLight", sans-serif;
     font-weight: bold;
-    font-size:20px;
+    font-size:18px;
     text-transform: uppercase;
     margin:auto 0;
     letter-spacing: 0.3em;
 }
 .navigation a:hover{
-    font-size: 24px;
+    font-size: 21px;
 }
 
 /*Basics styling*/
@@ -69,6 +83,16 @@ nav{
     border:1px solid black;
     background: red;
     margin:10px;
+}
+p.basics-text{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.basics-list{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*calendar site stuff*/
@@ -210,7 +234,16 @@ form{
   display: inline-block;
   text-align: right;
 }
-
+.hidden{
+  display: none;
+}
+.error_message {
+    font-size: 14px;
+    color: red;
+}
+button {
+    margin: 10px 30% 0;
+}
 /*Footer Styling*/
 .footer {
   text-align: center;
