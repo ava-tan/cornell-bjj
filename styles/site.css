@@ -95,6 +95,53 @@ ul.basics-list{
   margin-right: auto;
 }
 
+/*meet the team*/
+.a{
+  font-size: 45px;
+  margin-left: 540px;
+  font-family: sans-serif;
+}
+.b{
+  font-size: 20px;
+  margin-left: 50px;
+  font-family: sans-serif;
+}
+.c{
+  margin-left: 0px;
+}
+.d{
+  margin-left: 50px;
+}
+.e{
+  margin-left: 50px;
+  font-size: 32px;
+  font-family: sans-serif;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+.g{
+  margin-left: 50px;
+  font-family: sans-serif;
+}
+p.e{
+  margin-right: 50px;
+}
+img#uno{
+  margin-left: 50px;
+}
+img#instructor{
+  margin-left: 50px;
+}
+.row{
+  display:flex;
+  margin-left: 0px;
+}
+.col{
+  flex-direction: column;
+}
+
+
+
 /*calendar site stuff*/
 .calendar{
     height:700px;
