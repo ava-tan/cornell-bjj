@@ -206,7 +206,7 @@ of the team
 ![Desktop draft](signupsketch-1.jpg)
 
 ## Interactivity (Milestone 1) - Leo
-Calendar, consent form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiujitsu club will meet, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club.
+Calendar, sign up form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiu-jitsu club will meet, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club. The image gallery can be clicked on and you can transition from one picture to another. The calendar will work by displaying a digital calendar and you can click on the days to see what events are going and their respective times.
 
 
 
