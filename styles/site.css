@@ -71,11 +71,40 @@ nav{
 .navigation a:hover{
     font-size: 21px;
 }
+/*Homepage Styling*/
+
+#placeholder{
+  width: 100%;
+}
+.description{
+  display: flex;
+  flex-direction: row;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#abouttheclub, #wherewhen{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#abouttheclub{
+  margin-right: 10px;
+}
+
+#wherewhen{
+  margin-left: 10px;
+}
 
 /*Basics styling*/
 .videos{
     display: flex;
     flex-direction: row;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .videos *{
     width:100px;
@@ -228,6 +257,17 @@ ul.basics-list{
 
 form{
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  width:100%;
+}
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+
 }
 
 .align{
@@ -241,9 +281,13 @@ form{
     font-size: 14px;
     color: red;
 }
+.waiver{
+  text-align: center;
+}
 button {
     margin: 10px 30% 0;
 }
+
 /*Footer Styling*/
 .footer {
   text-align: center;
