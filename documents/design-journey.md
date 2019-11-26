@@ -189,6 +189,8 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 - Jiu-Jitsu Basics
     - Videos (Asher)
     ![](videos_desktop.jpg)
+    - Full Page
+    ![](basics1.jpg)
 
 - Calendar sketches- Asher
 ![](cal1.jpg)
@@ -289,7 +291,8 @@ Task: [TODO: copy task here]
 - Jiu-Jitsu Basics page
     - Videos (Asher)
     ![](videos_desktop.jpg)
-
+    - Full page
+    ![](basicsfinal.jpg)
 - Meet the Team Final Sketch (Desktop) - Leo
 ![](leodfinal.jpeg)
 
@@ -309,6 +312,8 @@ Task: [TODO: copy task here]
     Videos (mobile)
     ![](videos_mobile.jpg)
 
+    Full page (mobile)
+    ![](basicsmobile.jpg)
 - Meet the Team Final Sketch (Mobile) - Leo
 ![](leomfinal.jpeg)
 
@@ -329,6 +334,28 @@ Task: [TODO: copy task here]
 ## Client Feedback (Milestone 2)
 > You have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.
 
+- Fundamentals Class Schedule
+  - Monday 8-9PM
+  - Friday 6:30-7:30PM
+- Regular Class Schedule
+  - Monday 8-9PM
+  - Wednesday 7:30-8:30PM
+  - Friday 6:30-7:30PM
+
+- Uniform is not required (just optional/suggested)
+- Change to "What to Wear" instead of "Required Items"
+- Stress that "MMA-related"
+- Videos Ideas:
+  - Five minute round
+  - How to tie your belt
+  - How to roll
+  - Want cool, high quality videos
+- Questions/Contact Form for interactivity
+- FAQ content/page?
+
+- Meet the Team Page
+  - Team officer bios?
+  - Info about Tony Greenberg (his lineage, etc.)
 
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
