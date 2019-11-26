@@ -360,14 +360,34 @@ Task: [TODO: copy task here]
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
 
-Example:
-```
-when DOM is loaded:
+Calendar pseudocode:
 
-  if today is a monday:
-    show Monday's soup and Monday's daily special
+    How the data is stored:
+        ```
+            1. create a list of all months the web owner has events for
+            2. Link each month to the number of days in that month
+            3. Link each month to a list of days in that month
+            4. Link each day to a nested list containing one list of times and one list of events.
+        ```
 
-```
+    How the data is displayed:
+        ```
+            1. Use javascript to get the current month
+            2. Find that month in the list
+            3. Use js to find the first day of that month
+            4. Starting from that day, add the date to each box on the calendar
+            5. Add the name of the month to the title of the calendar header
+
+            When a day is clicked:
+                1. Find the relevant day's time and events
+                2. Add to the pop up's time field the list of Times
+                3. add to the event field the list of events
+                4. set the pop up display to fixed.
+                5. Set the pop up title to the date
+
+            When the close button is clicked:
+                1. set the pop_up display to none
+        ```
 
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
