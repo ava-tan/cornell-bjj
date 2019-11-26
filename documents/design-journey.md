@@ -360,7 +360,18 @@ Task: [TODO: copy task here]
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
 
-Calendar pseudocode:
+Image Gallery Pseudocode (Jonna):
+  ```
+    1. Create a variable that has a value of 0
+    2. Set interval to 1000 and call the "change_image" function every time the interval 1000 starts and ends (use setInterval function)
+    3. Within the "change_image" function:
+      a. If the image is carousel-1.jpg, hide carousel-1.jpg and show carousel-2.jpg
+      b. If the image is carousel-2.jpg, hide carousel-2.jpg and show carousel-3.jpg
+      c. If the image is carousel-3.jpg, hide carousel-3.jpg and show carousel-4.jpg
+      d. If the image is carousel-4.jpg, hide carousel-4.jpg and show carousel-1.jpg
+  ```
+
+Calendar pseudocode (Asher):
 
     How the data is stored:
         ```
