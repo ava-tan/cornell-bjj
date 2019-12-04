@@ -204,7 +204,7 @@ img#instructor{
     flex-direction: row;
     width:100%;
     justify-content: space-between;
-    background-color: black;
+    background-color: white;
     height:75px;
 }
 .calendar_nav{
@@ -220,18 +220,19 @@ img#instructor{
     color:white;
     font-family:"SourceSansProLight", sans-serif;
     font-weight: bold;
-    font-size:24px;
+    font-size:28px;
     text-transform: uppercase;
     margin:auto 0;
     letter-spacing: 0.2em;
     text-align: center;
+    color:#a42e2e;
 }
 .day_titles{
     display:flex;
     flex-direction: row;
     list-style: none;
     flex-wrap:nowrap;
-    background-color: #3a9fa6;
+    background-color: #a42e2e;
     color:white;
     height:40px;
     line-height: 40px;
@@ -272,7 +273,7 @@ img#instructor{
 }
 
 .pop_up{
-    border:2px solid black;
+    border:4px solid black;
     height:400px;
     width:50%;
     position:fixed;
@@ -285,26 +286,32 @@ img#instructor{
     flex-direction: row;
     justify-content: space-between;
     padding:0 20px;
-    background: black;
+    background: white;
     height:60px;
 }
 .pop_up_title{
-    margin-left: 20px;
-    color: white;
-}
-.pop_up button{
-    color:white;
-    background: none;
-    border:none;
-    font-size: 32px;
-    padding:10px;
-    margin:0;
+    margin: 20px;
+    line-height: 100%;
+    color: #a42e2e;
 
 }
+.pop_up button{
+    color:#a42e2e;
+    background: none;
+    border:none;
+    font-size: 48px;
+    padding:10px;
+    margin:0;
+}
+.pop_up button{
+    color:#a42e2e !important;
+    background: none !important;
+}
+
 .calendar_description_titles{
     display: flex;
     flex-direction: row;
-    background: #3a9fa6;
+    background: #a42e2e;
     height:40px;
     line-height: 40px;
 }
@@ -327,16 +334,13 @@ img#instructor{
 }
 .times{
     width: 30%;
-    height:100%;
-    border-right: 2px solid black;
-    margin:0;
-    list-style: none;
-    font-size: 24px;
 }
 .events{
     width: 70%;
+}
+.times, .events{
     height:100%;
-    border-left:2px solid black;
+    border-right: 2px solid black;
     margin:0;
     list-style: none;
     font-size: 24px;
@@ -344,6 +348,7 @@ img#instructor{
 .times li, .events li{
     margin:30px 10px;
 }
+
 /* end of calendar */
 
 /* Signups Styling - Ava*/
@@ -442,7 +447,7 @@ nav{
     height: calc(100% - 152px);
     position: fixed;
     top:152px;
-    background: black;
+    background: white;
 }
 .navigation{
     flex-direction: column;
@@ -454,7 +459,7 @@ nav{
 .navigation li{
     width:100%;
     text-align: center;
-    border: 1px solid white;
+    border: 1px solid #a42e2e;
 }
 .navigation a{
     display:inline-block;
@@ -503,9 +508,24 @@ nav{
     margin:10px auto;
     width:80%;
     z-index: -1;
+    overflow-y: scroll;
 }
 .pop_up_header{
     display: none;
+}
+.times,.events{
+    padding-left:0;
+    font-size: 20px;
+    text-align: center;
+    height:100%;
+    overflow-y: auto;
+}
+.times li, .events li{
+    margin-bottom:30px;
+    height:75px;
+}
+.events li{
+    line-height: 75px;
 }
 .calendar_descriptions{
     height:calc(100% - 40px);
