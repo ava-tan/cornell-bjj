@@ -16,14 +16,17 @@ header{
   width: 100%;
   flex-direction: row;
   justify-content: space-between;
-  background-color: black;
+  background-color: white;
   margin:0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
 }
 
 .logo{
   width:150px;
   height:150px;
   border:1px solid white;
+  padding-left: 30px;
 }
 
 /*Text Styling*/
@@ -53,6 +56,7 @@ nav{
   height:150px;
   width: 80%;
 }
+
 .navigation{
   list-style: none;
   display: flex;
@@ -67,7 +71,7 @@ nav{
 
     line-height: 200px;
     text-decoration: none;
-    color:white;
+    color:black;
     font-family:"SourceSansProLight", sans-serif;
     font-weight: bold;
     font-size:18px;
@@ -77,6 +81,7 @@ nav{
 }
 .navigation a:hover{
     font-size: 21px;
+    color: #a42e2e;
 }
 /*Homepage Styling*/
 
@@ -128,12 +133,12 @@ nav{
     margin:10px;
 }
 p.basics-text{
-  width: 600px;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
 ul.basics-list{
-  width: 600px;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -344,37 +349,68 @@ img#instructor{
 /* Signups Styling - Ava*/
 
 form{
-  text-align: center;
   display: flex;
   flex-direction: column;
   width:100%;
+  align-items: center;
 }
 input {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    padding: 5px;
-    font-size: 14px;
-    box-sizing: border-box;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+  font-size: 14px;
+  box-sizing: border-box;
 
+}
+label{
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.listserv-radio{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.label-radio{
+  display: flex;
+  flex-direction: row;
 }
 
 .align{
   display: inline-block;
-  text-align: right;
+  align-self: flex-start;
 }
-.hidden{
-  display: none;
+
+.textbox{
+  margin-top: 5px;
 }
 .error_message {
-    font-size: 14px;
-    color: red;
+  display: flex;
+  font-size: 14px;
+  color: red;
 }
 .waiver{
   text-align: center;
 }
 button {
-    margin: 10px 30% 0;
-    padding:20px;
+    margin: 10px 35% 0;
+    align-self: flex-end;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    font-family: "SourceSansProLight", Roboto, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: white;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.hidden{
+  display: none;
 }
 
 /*Footer Styling*/

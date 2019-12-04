@@ -5,10 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Sign Ups & Forms</title>
   <link rel="stylesheet" type="text/css" href="styles/site.css">
+  <script src="scripts/jquery-3.4.1.min.js" type="text/javascript"></script>
+  <script src="scripts/validation.js" type="text/javascript"></script>
 </head>
 <body>
   <header>
-    <img class="logo" alt="logo" src="https://dynamic.brandcrowd.com/asset/logo/0f8e1533-32cb-468f-a653-55fa77a726ff/logo?v=4"/>
+    <img class="logo" alt="logo" src="images/logo.png"/>
     <nav>
       <ul class="navigation">
         <li> <a href="index.html">Home</a> </li>
@@ -22,7 +24,7 @@
   <h1 class="sign-up">Sign Up</h1>
   <h3 class="sign-up">Fill out the form below to join the ListServ and find out more information about our club!</h3>
 
-  <form id="feedbackForm" method="post" action="https://www.cs.cornell.edu/courses/cs1300/2019fa/submit.php" novalidate>
+  <form id="ListServForm" method="post" action="https://www.cs.cornell.edu/courses/cs1300/2019fa/submit.php" novalidate>
 
     <div class="form-label">
         <label for="name" class="align">Name*:</label>
@@ -38,7 +40,7 @@
                 *Must enter a valid email address.
             </span>
     </div>
-    <div class="form-label">
+    <div class="label-radio">
       <label class="align">What's your skill level?*:</label>
       <div class="level">
           <div class="radio">
@@ -54,27 +56,29 @@
               <label for="beginner">Beginner</label>
           </div>
       </div>
+    </div>
       <div class="text-box">
           <label for="interest" class="align">Why are you interested in jiu-jitsu?</label>
-          <div class="textbox-align">
+          <div class="textbox">
               <textarea id="interest" name="interest" rows=5 cols="50" minlength="10" maxlength="500"></textarea>
-              <span class="error_message hidden" id="interestError">*Please submit a response with 10 to 500 characters in length.
+              <span class="error_message hidden" id="interestError">*Please submit a response that is 10 to 500 characters in length.
               </span>
           </div>
       </div>
-      <label class="align">Would you like to be added to our ListServ?*</label>
-        <div class="listserv">
-            <div class="listserv-radio">
-                <input type="radio" id="yes" name="radio">
-                <label for="yes">Yes</label>
-            </div>
-            <div class="listserv-radio">
-                <input type="radio" id="no" name="radio" checked>
-                <label for="no">No</label>
-            </div>
-        </div>
+      <div class="form-label">
+        <label class="align">Would you like to be added to our ListServ?*</label>
+          <div class="listserv">
+              <div class="listserv-radio">
+                  <input type="radio" id="yes" name="listServ" value="yes" checked>
+                  <label for="yes">Yes</label>
+              </div>
+              <div class="listserv-radio">
+                  <input type="radio" id="no" name="listServ" value="no">
+                  <label for="no">No</label>
+              </div>
+          </div>
+      </div>
       <button type="submit">Submit</button>
-    </div>
   </form>
 
   <h3 class="waiver"><a href="https://cornell.campusgroups.com/cubjj/home/" target="_blank">Fill out this Waiver Form to finish joining!</a></h3>
