@@ -249,10 +249,21 @@ img#instructor{
   width:100%;
   height:calc(100% - 75px - 40px);
 }
-.calendar_days *{
+.calendar_days > div{
   border: 1px solid black;
   width: calc((100% / 7) - 2px);
   height:calc(20% - 2px);
+}
+.calendar_days a{
+    width:100%;
+    height:100%;
+    display: inline-block;
+}
+.day_label{
+    font-size: 32px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
 }
 
 .pop_up{
@@ -281,7 +292,9 @@ img#instructor{
     background: none;
     border:none;
     font-size: 32px;
-    margin-right:10px;
+    padding:10px;
+    margin:0;
+
 }
 .calendar_description_titles{
     display: flex;
@@ -311,11 +324,20 @@ img#instructor{
     width: 30%;
     height:100%;
     border-right: 2px solid black;
+    margin:0;
+    list-style: none;
+    font-size: 24px;
 }
 .events{
     width: 70%;
     height:100%;
     border-left:2px solid black;
+    margin:0;
+    list-style: none;
+    font-size: 24px;
+}
+.times li, .events li{
+    margin:30px 10px;
 }
 /* end of calendar */
 

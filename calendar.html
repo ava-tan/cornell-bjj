@@ -7,6 +7,7 @@
         <link rel="stylesheet" type="text/css" href="styles/site.css">
         <script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
         <script type="text/javascript" src="scripts/effects.js"></script>
+        <script type="text/javascript" src="scripts/calendar.js"></script>
     </head>
     <body>
         <header>
@@ -29,7 +30,7 @@
 
                 <input type="image" src="images/backward_icon1.png" alt="<" class="calendar_nav" id="previous_month" />
 
-                <h2 class="calendar_title">Placeholder title (Source: <a href="https://www.iconfinder.com/icons/809499/forward_media_control_multimedia_next_track_icon">IconFinder</a>)</h2>
+                <h2 class="calendar_title"> </h2>
 
                 <!--Source:https://www.iconfinder.com/icons/809499/forward_media_control_multimedia_next_track_icon-->
                 <input type="image" src="images/forward1_icon.png" class="calendar_nav" id="next_month" alt=">" />
@@ -53,46 +54,116 @@
             </ul>
 
             <div class="calendar_days">
-                <div id="Sunday1"></div>
-                <div id="Monday1"></div>
-                <div id="Tuesday1"></div>
-                <div id="Wednesday1"></div>
-                <div id="Thursday1"></div>
-                <div id="Friday1"></div>
-                <div id="Saturday1"></div>
-                <div id="Sunday2"></div>
-                <div id="Monday2"></div>
-                <div id="Tuesday2"></div>
-                <div id="Wednesday2"></div>
-                <div id="Thursday2"></div>
-                <div id="Friday2"></div>
-                <div id="Saturday2"></div>
-                <div id="Sunday3"></div>
-                <div id="Monday3"></div>
-                <div id="Tuesday3"></div>
-                <div id="Wednesday3"></div>
-                <div id="Thursday3"></div>
-                <div id="Friday3"></div>
-                <div id="Saturday3"></div>
-                <div id="Sunday4"></div>
-                <div id="Monday4"></div>
-                <div id="Tuesday4"></div>
-                <div id="Wednesday4"></div>
-                <div id="Thursday4"></div>
-                <div id="Friday4"></div>
-                <div id="Saturday4"></div>
-                <div id="Sunday5"></div>
-                <div id="Monday5"></div>
-                <div id="Tueday5"></div>
-                <div id="Wednesday5"></div>
-                <div id="Thursday5"></div>
-                <div id="Friday5"></div>
-                <div id="Saturday5"></div>
+                <div id="Sunday1">
+                    <a class="day_label" id="Sunday1Label" href="#"></a>
+                </div>
+                <div id="Monday1">
+                    <a class="day_label" id="Monday1Label"></a>
+                </div>
+                <div id="Tuesday1">
+                    <a class="day_label" id="Tuesday1Label"></a>
+                </div>
+                <div id="Wednesday1">
+                    <a class="day_label" id="Wednesday1Label"></a>
+                </div>
+                <div id="Thursday1">
+                    <a class="day_label" id="Thursday1Label"></a>
+                </div>
+                <div id="Friday1">
+                    <a class="day_label" id="Friday1Label"></a>
+                </div>
+                <div id="Saturday1">
+                    <a class="day_label" id="Saturday1Label"></a>
+                </div>
+                <div id="Sunday2">
+                    <a class="day_label" id="Sunday2Label"></a>
+                </div>
+                <div id="Monday2">
+                    <a class="day_label" id="Monday2Label"></a>
+                </div>
+                <div id="Tuesday2">
+                    <a class="day_label" id="Tuesday2Label"></a>
+                </div>
+                <div id="Wednesday2">
+                    <a class="day_label" id="Wednesday2Label"></a>
+                </div>
+                <div id="Thursday2">
+                    <a class="day_label" id="Thursday2Label"></a>
+                </div>
+                <div id="Friday2">
+                    <a class="day_label" id="Friday2Label"></a>
+                </div>
+                <div id="Saturday2">
+                    <a class="day_label" id="Saturday2Label"></a>
+                </div>
+                <div id="Sunday3">
+                    <a class="day_label" id="Sunday3Label"></a>
+                </div>
+                <div id="Monday3">
+                    <a class="day_label" id="Monday3Label"></a>
+                </div>
+                <div id="Tuesday3">
+                    <a class="day_label" id="Tuesday3Label"></a>
+                </div>
+                <div id="Wednesday3">
+                    <a class="day_label" id="Wednesday3Label"></a>
+                </div>
+                <div id="Thursday3">
+                    <a class="day_label" id="Thursday3Label"></a>
+                </div>
+                <div id="Friday3">
+                    <a class="day_label" id="Friday3Label"></a>
+                </div>
+                <div id="Saturday3">
+                    <a class="day_label" id="Saturday3Label"></a>
+                </div>
+                <div id="Sunday4">
+                    <a class="day_label" id="Sunday4Label"></a>
+                </div>
+                <div id="Monday4">
+                    <a class="day_label" id="Monday4Label"></a>
+                </div>
+                <div id="Tuesday4">
+                    <a class="day_label" id="Tuesday4Label"></a>
+                </div>
+                <div id="Wednesday4">
+                    <a class="day_label" id="Wednesday4Label"></a>
+                </div>
+                <div id="Thursday4">
+                    <a class="day_label" id="Thursday4Label"></a>
+                </div>
+                <div id="Friday4">
+                    <a class="day_label" id="Friday4Label"></a>
+                </div>
+                <div id="Saturday4">
+                    <a class="day_label" id="Saturday4Label"></a>
+                </div>
+                <div id="Sunday5">
+                    <a class="day_label" id="Sunday5Label"></a>
+                </div>
+                <div id="Monday5">
+                    <a class="day_label" id="Monday5Label"></a>
+                </div>
+                <div id="Tueday5">
+                    <a class="day_label" id="Tuesday5Label"></a>
+                </div>
+                <div id="Wednesday5">
+                    <a class="day_label" id="Wednesday5Label"></a>
+                </div>
+                <div id="Thursday5">
+                    <a class="day_label" id="Thursday5Label"></a>
+                </div>
+                <div id="Friday5">
+                    <a class="day_label" id="Friday5Label"></a>
+                </div>
+                <div id="Saturday5">
+                    <a class="day_label" id="Saturday5Label"></a>
+                </div>
             </div>
         </div>
-        <div class="pop_up">
+        <div class="pop_up hidden">
             <div class="pop_up_header">
-                <h2 class="pop_up_title">Day Placeholder</h2>
+                <h2 class="pop_up_title"></h2>
                 <button id="pop_up_close" type="button">&times;</button>
             </div>
             <div class="calendar_description_titles">
@@ -100,8 +171,8 @@
                 <h3>Event Description</h3>
             </div>
             <div class="calendar_descriptions">
-                <div class="times"></div>
-                <div class="events"></div>
+                <ul class="times"></ul>
+                <ul class="events"></ul>
             </div>
         </div>
         <div class = "footer">

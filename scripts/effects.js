@@ -16,4 +16,8 @@ $(document).ready(function () {
         }
         nav_open++;
     });
+
+    $("#pop_up_close").on("click", function(){
+        $(".pop_up").addClass("hidden");
+    });
 });
