@@ -489,7 +489,8 @@ nav{
 .navigation a{
     display:inline-block;
     width:100%;
-    line-height: 20%;
+    height:100%;
+    line-height: 100%;
 }
 /*Homepage Styling*/
 
