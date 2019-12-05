@@ -515,6 +515,13 @@ nav{
   margin-left: auto;
 }
 
+.videos{
+    flex-direction: column;
+}
+.videos figure{
+    margin: 10px 5%;
+}
+
 /*calendar stuff*/
 .calendar{
     height:400px;
