@@ -68,7 +68,7 @@ nav{
 }
 
 .navigation a{
-
+    transition-duration: 250ms;
     line-height: 200px;
     text-decoration: none;
     color:black;
@@ -80,6 +80,7 @@ nav{
     letter-spacing: 0.3em;
 }
 .navigation a:hover{
+    transition-duration:250ms;
     font-size: 21px;
     color: #a42e2e;
 }
@@ -121,17 +122,20 @@ nav{
 .videos{
     display: flex;
     flex-direction: row;
-    width: 800px;
+    flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
 }
-.videos *{
-    width:100px;
-    height:100px;
-    border:1px solid black;
-    background: red;
-    margin:10px;
+.videos figure{
+    width:300px;
+    height:300px;
+    margin: 10px calc(calc(100% - 900px) / 6);
 }
+.videos figcaption{
+    text-align: center;
+}
+
+
 p.basics-text{
   width: 50%;
   margin-left: auto;
