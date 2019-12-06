@@ -84,6 +84,9 @@ nav{
     font-size: 21px;
     color: #a42e2e;
 }
+.navigation a.active{
+    color: #a42e2e;
+}
 /*Homepage Styling*/
 
 .carousel{
@@ -290,6 +293,15 @@ img#instructor{
     text-align: center;
     text-decoration: none;
     color:black;
+    cursor: pointer;
+}
+.day_label:hover{
+    background:#a42e2e;
+    color:white;
+}
+.inactive_day{
+    cursor:default;
+    background: #777a7e !important;
 }
 
 .pop_up{
@@ -451,9 +463,18 @@ button:hover {
   font-size: 12px;
 }
 
+@media (max-width:1350px){
+    .navigation{
+        padding:0;
+    }
+    .navigation a{
+        transition-duration: 250ms;
+        font-size: 90%;
+    }
+}
 
 /* tablet responsiveness*/
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
 
 html, body{
   width: 100%;
@@ -531,7 +552,7 @@ nav{
     height:30px;
 }
 .calendar_title{
-    font-size: 18px;
+    font-size: 20px;
 
 }
 .pop_up{
