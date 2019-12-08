@@ -362,13 +362,10 @@ Full page (mobile)
 
 Image Gallery Pseudocode (Jonna):
 ```
-1. Create a variable that has a value of 0
-2. Set interval to 1000 and call the "change_image" function every time the interval 1000 starts and ends (use setInterval function)
-3. Within the "change_image" function:
-a. increment variable
-b. update image source
+1. store an array of images
+2. if next button is clicked, set carousel image source to the next image in the array
+3. if prev button is clicked, set carousel image source to the previous image in the array
 ```
-
 Calendar pseudocode (Asher):
 
 How the data is stored:

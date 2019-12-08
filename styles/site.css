@@ -12,7 +12,7 @@ body{
 }
 
 header{
-  display:flex;
+  display: flex;
   width: 100%;
   flex-direction: row;
   justify-content: space-between;
@@ -27,6 +27,7 @@ header{
   height:150px;
   border:1px solid white;
   padding-left: 30px;
+  margin-top: 10px;
 }
 
 /*Text Styling*/
@@ -89,8 +90,29 @@ nav{
 }
 /*Homepage Styling*/
 
-.carousel{
+.slider{
   width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.slider #carousel{
+  margin: 0px;
+  position: relative;
+  left: 0px;
+}
+
+.slider #carousel #carousel-image{
+  width: 100%;
+  float: left;
+}
+.arrows{
+  margin: 0 auto 0 auto;
+  width: 200px;
+}
+
+#prev{
+  margin-right: 20px;
 }
 
 .description{

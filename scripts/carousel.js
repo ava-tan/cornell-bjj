@@ -1,21 +1,31 @@
 $(document).ready(function() {
-  var i = 1;
-  var time = 2000;
 
-  function changeImage(){
-      i = (i+1)%5;
+  const img_con = document.getElementById('carousel-image');
 
-    if(i==0){
-      i = 1;
+  //store array of images
+  const images = ['carousel-1.jpg', 'carousel-2.jpg', 'carousel-3.jpg', 'carousel-4.jpg']
+
+  let i = images.length;
+
+  // function for next slide
+  $("#next").on("click", function(){
+    if(i < images.length){
+      i = i+1;
+    }else{
+      i=1;
     }
+    img_con.src = "images/"+images[i-1];
+  });
 
-    document.getElementById("carousel").src = "images/carousel-" + i + ".jpg";
-  }
+  // function for prew slide
+  $("#prev").on("click", function(){
+    if(i < images.length){
+      i = i+1;
+    }else{
+      i=1;
+    }
+    img_con.src = "images/"+images[i-1];
+  });
 
-  function slider(){
-    setInterval(changeImage, time);
-  }
-
-  window.onload = slider;
 
 });
