@@ -454,7 +454,7 @@ My user is a Cornell Freshman who is studying physics in the college of arts and
 Yes, because although she has never done jiu jitsu before, she is interested in joining new clubs and learning new skills.
 
 
-### User 3 - **Desktop** (Final Submission)
+### User 3 - **Desktop** (Final Submission) (Jonna)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
 
