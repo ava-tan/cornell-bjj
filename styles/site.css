@@ -663,6 +663,36 @@ p#beltsystem{
 div.footer{
   margin-right: 80px;
 }
-
-
+div.row{
+  margin-left: 0px;
+  margin-right: 0px;
 }
+.col{
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.row{
+  flex-wrap: wrap;
+}
+h1.a{
+  margin-left: 50px;
+}
+}
+
+/* tablet responsiveness*/
+@media (max-width: 900px) {
+  div.row{
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .col{
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .row{
+    flex-wrap: wrap;
+  }
+  h1.a{
+    margin-left: 50px;
+  }
+  }
