@@ -645,6 +645,18 @@ img.jiujitsu{
 /* mobile responsiveness*/
 @media (max-width: 600px) {
 
+div#abouttheclub{
+  margin-left: 40px;
+}
+div#wherewhen{
+  margin-left: 40px;
+}
+p#beltsystem{
+  margin-right: 80px;
+}
+div.footer{
+  margin-right: 80px;
+}
 
 
 }
