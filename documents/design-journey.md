@@ -104,7 +104,7 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 
 1. Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
 
-2. You want to see a few people on the team before you actually go to practice. Find the team roster and the contact information of the two officers of the club.
+2. You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 
 3. After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 
@@ -430,6 +430,9 @@ Submit the form to the server.
 ## Changes Based on Lab 13 Peer Feedback (Final Submission)
 > What changes did you make to your design based on your peers' feedback?
 
+(Jonna) I altered the slideshow so that it had buttons instead of automatically playing. This was to avoid the slideshow being too abrupt and distracting from the rest of the page.
+
+
 
 ## User Testing
 > If you conducted user testing in Milestone 1, you only need to user test 2 more users. Otherwise, you must conduct user testing with 4 users.
@@ -443,15 +446,61 @@ Submit the form to the server.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+My user is a Cornell Freshman who is studying physics in the college of arts and sciences, although her major isn't 100% decided. She loves to find new books to read and go online shopping in her free time.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
+
+Yes, because although she has never done jiu jitsu before, she is interested in joining new clubs and learning new skills.
 
 
 ### User 3 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+
+Task: Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: desktop/mobile
+- **How did the user do? Did they meet your expectation?**
+- TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- TODO
+- **Your reflections about the user’s performance to the task**
+- TODO
+- **Re-design choices**
+- TODO
+- **Additional Notes**
+- TODO: Justify your decisions; additional notes.
+
+Task: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: desktop/mobile
+- **How did the user do? Did they meet your expectation?**
+- TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- TODO
+- **Your reflections about the user’s performance to the task**
+- TODO
+- **Re-design choices**
+- TODO
+- **Additional Notes**
+- TODO: Justify your decisions; additional notes.
+
+Task: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: desktop/mobile
+- **How did the user do? Did they meet your expectation?**
+- TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- TODO
+- **Your reflections about the user’s performance to the task**
+- TODO
+- **Re-design choices**
+- TODO
+- **Additional Notes**
+- TODO: Justify your decisions; additional notes.
+
+Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 - **Did you evaluate the desktop or mobile design?**
 - Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**

@@ -91,13 +91,10 @@ nav{
 
 .slider{
   width: 100%;
-  position: relative;
-  overflow: hidden;
 }
 
 .slider #carousel{
   margin: 0px;
-  position: relative;
   left: 0px;
 }
 
