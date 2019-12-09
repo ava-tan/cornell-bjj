@@ -104,7 +104,7 @@ You just got to Cornell for your first week of college! Having done jiu jitsu fo
 
 1. Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
 
-2. You want to see a few people on the team before you actually go to practice. Find the team roster and the contact information of four team members.
+2. You want to see a few people on the team before you actually go to practice. Find the team roster and the contact information of the two officers of the club.
 
 3. After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 
