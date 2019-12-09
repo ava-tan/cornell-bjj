@@ -106,14 +106,31 @@ $(document).ready(function() {
 
     //function to populate numbers, title, and dates on the calendar depending on the month
     function set_days(){
-        var number_of_days=months[current_month].number_of_days;
+        var number_of_days;
+        if(current_month=="February"){
+            if ((parseInt(current_year,10)%4!=0)){
+                number_of_days=months[current_month].number_of_days;
+            }
+            else{
+                number_of_days=months[current_month].number_of_days+1;
+            }
+        }
+        else{
+            number_of_days=months[current_month].number_of_days;
+        }
         var first_day_of_week=new Date(current_month+" 1, "+current_year).getDay();
         $(".day_label").each(function(){
             $(this).text("");
+            $(this).removeClass("inactive_day");
         });
         for (var i=0;i<number_of_days;i++){
             $(".day_label:eq("+(i+first_day_of_week)+")").text((i+1).toString());
         }
+        $(".day_label").each(function(){
+            if ($(this).text()==""){
+                $(this).addClass("inactive_day");
+            }
+        });
         $(".calendar_title").text(current_month+" "+current_year);
         $(".calendar_title").append(" (Source: <a href='https://www.iconfinder.com/icons/809499/forward_media_control_multimedia_next_track_icon'>IconFinder</a>)");
     }
@@ -193,6 +210,9 @@ $(document).ready(function() {
 
     //when a specific day is clicked, show a pop up for all the events for that date
     $(".day_label").on("click", function(){
+        if ($(this).hasClass("inactive_day")){
+            return none;
+        }
         $(".times").empty();
         $(".events").empty();
         $(".pop_up_title").text(current_month+" "+$(this).text()+", "+current_year);
