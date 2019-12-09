@@ -199,6 +199,10 @@ figcaption.jiujitsu{
   margin-left: 50px;
   font-family: 'SourceSansProLight', sans-serif;
 }
+div.row{
+  margin-left: 150px;
+  margin-right: 150px;
+}
 .c{
   margin-left: 0px;
 }
@@ -222,7 +226,10 @@ p.e{
 img#uno{
   margin-left: 50px;
 }
-img#instructor{
+img#micaela{
+  margin-left: 50px;
+}
+img#travis{
   margin-left: 50px;
 }
 .row{
