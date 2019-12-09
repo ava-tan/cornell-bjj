@@ -457,24 +457,21 @@ Yes, because although she has never done jiu jitsu before, she is interested in 
 ### User 3 - **Desktop** (Final Submission) (Jonna)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-
 Task: Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user did as I expected - they were able to locate the correct information on the homepage without too much exploration around the rest of the website.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- Due to the size of the slideshow, they had to scroll to find the information as it was hidden/pushed down at first. However, they didn't feel like it was too much of a problem as they really enjoyed how the slideshow looked visually.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- The user performed as I expected without too many obstacles. I was pleased that they were able to use the website correctly.
 - **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- For re-design, I don't really think there was much to do because the user commented that I shouldn't change the size of the slideshow and the information was easy enough to find.
 
 Task: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
 - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
@@ -488,7 +485,7 @@ Task: You want to see a few people on the team before you actually go to practic
 
 Task: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
 - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
@@ -502,7 +499,7 @@ Task: After browsing a bit, you're definitely interested in joining! Sign up for
 
 Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
 - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
