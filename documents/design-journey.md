@@ -557,55 +557,55 @@ Task 1: Exploring the site, where and when does jiu jitsu club meet? (You'll be 
 - **How did the user do? Did they meet your expectation?**
 - The user checked the Calendar page first and then went navigated to Home to find the information, which was unexpected.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- The user thought that the general information for the club was
+- The user thought that the general information for the club was located in calendar but realized that it was located in home, said that the schedule should also be shown in the calendar.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I thought it was interesting how she navigated to calendar first instead of scrolling down on home.
 - **Re-design choices**
-- TODO
+- Include the time of meetings in calendar and emphasize home information.
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 Task 2: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: **desktop**/mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user quickly went to the Meet the Team page and identified the 2 officers in about 30 seconds, which was expected.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- User suggested that we fix the font size and the image sizing of the images.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm glad that the user was able to successfully find the information.
 - **Re-design choices**
-- TODO
+- Resize font to be more cohesive with the rest of the site and resize images.
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 Task 3: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: **desktop**/mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user quickly navigated to the signups and forms page and successfully completed/submitted the form, as well as the identified the consent form.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- No issues were specified.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm glad that the user was able to easily submit the form without any issues.
 - **Re-design choices**
-- TODO
+- N/A
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: **desktop**/mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user successfully navigated to the Jiu Jitsu basics page and specified the different outfitters for gear in about 45 seconds.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- User enjoyed the basics page and said that it was thoughtful for new members that we included videos/basic info about jiu jitsu.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm happy that the user was able to easily find the information needed and that they enjoyed the content on the page.
 - **Re-design choices**
-- TODO
+- N/A
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 
 ### User 6 - Testing Notes (Final Submission)
@@ -648,6 +648,10 @@ Task: [TODO: copy task here]
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well. -Ava
+
+* A strength of our website is that there is a very cohesive and clean theme that is pleasing to the eye and welcoming to our users. We wanted the website to look sophisticated and polished to help represent the Jiu Jitsu team in a more official way, which I believed we achieved.
+* Another strength of our website is that there are multiple elements of interactivity, including a fully interactive calendar that shows the events on specific days of the week throughout the year when clicking on specific days.
+* Lastly, a strength of our website is that the content was thoughtfully planned out and the navigation is easy to understand/access. Since our target audience was potential new members and people who wanted to learn more about jiu jitsu, I think that our Jiu Jitsu Basics page really meets the needs of our users by providing them with ample information about Jiu Jitsu in general. 
 
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications. -Asher
