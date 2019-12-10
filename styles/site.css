@@ -21,6 +21,10 @@ header{
   padding-bottom: 10px;
   border-bottom: 1px solid black;
 }
+p{
+  font-size: 18px;
+  line-height: 1.5em;
+}
 
 .logo{
   width:150px;
