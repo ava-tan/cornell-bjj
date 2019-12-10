@@ -222,12 +222,10 @@ figcaption.jiujitsu{
 
 /*meet the team*/
 .a{
-  font-size: 45px;
   margin-left: 540px;
   font-family: 'SourceSansProLight', sans-serif;
 }
 .b{
-  font-size: 20px;
   margin-left: 50px;
   font-family: 'SourceSansProLight', sans-serif;
 }
@@ -236,25 +234,11 @@ div.row{
   margin-right: 150px;
 }
 
-.c{
-  margin-left: 0px;
-}
-.d{
-  margin-left: 50px;
-}
 .e{
-  margin-left: 50px;
-  font-size: 32px;
+
   font-family: 'SourceSansProLight', sans-serif;
   margin-top: 20px;
-  margin-right: 30px;
 }
-
-.g{
-  margin-left: 50px;
-  font-family: 'SourceSansProLight', sans-serif;
-}
-
 
 .row{
   display:flex;
@@ -263,7 +247,6 @@ div.row{
 .col{
   flex-direction: column;
 }
-
 
 
 /*calendar site stuff*/
