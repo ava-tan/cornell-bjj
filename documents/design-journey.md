@@ -234,7 +234,6 @@ Calendar, sign up form, and image gallery. All this meets the needs of our clien
 - Calendar Final Sketches(Desktop)-Asher
 ![](cal_webpage.jpg)
 ![](cal3.jpg)
-
 **Mobile Design:**
 
 - Homepage Final Sketch (Mobile) - Jonna
