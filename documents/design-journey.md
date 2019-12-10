@@ -556,55 +556,55 @@ Task 1: Exploring the site, where and when does jiu jitsu club meet? (You'll be 
 - **How did the user do? Did they meet your expectation?**
 - The user checked the Calendar page first and then went navigated to Home to find the information, which was unexpected.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- The user thought that the general information for the club was
+- The user thought that the general information for the club was in calendar and did not scroll down first to see the information on the homepage.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm surprised that the user navigated to calendar to see the general information for the club.
 - **Re-design choices**
-- TODO
+- Include information about the general club meetings in the calendar.
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 Task 2: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: **desktop**/mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user quickly went to meet the team page and identified the two officers, which met expectations.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- The user noted that the font size was too large for the body and that the image was stretched.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm glad that the user was able to easily navigate to the meet the team page and find the information needed.
 - **Re-design choices**
-- TODO
+- Fix the font size of the page and resize images.
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 Task 3: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: **desktop**/mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user easily went to the signups and form and successfully signed up for the listserv, which met expectations.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- There were no issues found in the tasks.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm happy that the user was able to easily signup for the listserv and have no problems submitting the form successfully.
 - **Re-design choices**
-- TODO
+- N/A
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: **desktop**/mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user successfully navigated to the Jiu Jitsu basics page and identified the outfitters for gear, in about 30 seconds.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- The user noted that the content was thoughtful to help beginners (such as how to videos)
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I'm glad that the user like the content on the page and was easily able to find the information needed.
 - **Re-design choices**
-- TODO
+- N/A
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- N/A
 
 
 ### User 6 - Testing Notes (Final Submission) - Leo
@@ -686,10 +686,16 @@ Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
+Changes made to our design based on user testing included for the Meet the Team page, we rearranged the layout so that the information for each officer was grouped together and the progression of ideas was more logical (vertical). We also changed the font of the body throughout to make it larger as on some displays, the text was very small. We also made the font size cohesive throughout the site so that there was a more coherent theme between the pages.
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well. -Ava
 
+A strength of our site is the cohesive and clean theme throughout the site. To make sure that the site made the club look official and welcoming, we used a clean and simple color scheme. By doing so, we have achieved a site that looks polished and ready to implement.
+
+Another strength of our site was the variety of interactivity elements implemented, such as the fully interactive calendar. One of the most important needs of the client was to have a schedule for the team members, which I believe we have met with the calendar. Also, the other features such as the form and image carousel provide additional functionality with the site, which allows a potential member/user to find out more about the club and show interest.
+
+Lastly, a strength of our site is that the content has been well thought out and geared toward the target audience. Throughout the site, and especially with our Jiu Jitsu Basics page, we included an ample amount of information to set up a newcomer to Jiu Jitsu by including information about the Jiu Jitsu in general along with how-to videos. When using our site, it is clear that we have tailored the content to cater to our target audience, which I believe we did very well.
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications. -Asher
 
