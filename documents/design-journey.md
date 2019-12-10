@@ -712,4 +712,4 @@ If we were going to continue working with the client in the future, we would mos
 
 We learned that working with a team instead of yourself for a website design project, that it has its benefits and cons as well. Together as a team, working together has proved to shown that we can create a website of greater quality and divide work evenly. However, there were conflicts such as meeting times as everybody has their own schedules. However, the ultimate thing that we learned while working together is that when we can effectively communicate and meet up, we can accomplish so much more and that is truly worth it in the end.
 
-> 4. Tell us anything else you need us to know for when we're looking at the project. -Joana
+> 4. Tell us anything else you need us to know for when we're looking at the project. -Jonna
