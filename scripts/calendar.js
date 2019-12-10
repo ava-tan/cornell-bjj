@@ -132,7 +132,7 @@ $(document).ready(function() {
             }
         });
         $(".calendar_title").text(current_month+" "+current_year);
-        $(".calendar_title").append(" (Source: <a href='https://www.iconfinder.com/icons/809499/forward_media_control_multimedia_next_track_icon'>IconFinder</a>)");
+        $(".calendar_title").append(" (Icon Source: <a href='https://www.iconfinder.com/icons/809499/forward_media_control_multimedia_next_track_icon'>IconFinder</a>)");
     }
 
     //jumps to the next month when the next month button's pressed
