@@ -606,7 +606,7 @@ Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-
 - TODO: Justify your decisions; additional notes.
 
 
-### User 6 - Testing Notes (Final Submission)
+### User 6 - Testing Notes (Final Submission) - Leo
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
 
@@ -614,30 +614,71 @@ Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
+My user is a freshman in the College of Engineering majoring in Computer Science. She is from the Bay Area and is very timid and shy at first before getting to know people, but is extremely helpful, kind, and open once you get to know her.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+She does belong to my target audience of the website because she's very into fitness, staying healthy, and trying out new sports and she would definitely be interested in learning more about jiu-jitsu and how to get started.
 
-### User 6 - **Mobile** (Final Submission)
+### User 6 - **Mobile** (Final Submission) - Leo
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task 1: Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user scrolled through the home page first and quickly noted the information and they fully met my expectations.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- The user thought that the mobile design was pretty clean to look at and the content of the website made it clear what the information would be talking about.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- The user performed very well with the task. They scrolled briefly through the home page and saw the header of "Where and When We Meet" and was able to quickly deduce that this part of the website would help her finish the task.
 - **Re-design choices**
-- TODO
+- No re-design choices in mind.
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- The big headers under each major portion of the website make it easy to differentiate each piece of information.
 
-...
+Task 2: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+- The user performed the task a little slower than I expected, but overall completed the task well.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- The user noted that although the pictures of the two people help, I don't explicitly say anywhere that they are the two officers which can be confusing. Also, she said it was "sort of difficult" to find the names at first.
+- **Your reflections about the user’s performance to the task**
+- I am satisfied with how the user performed, but she did stare at the screen for awhile, making me question to make some design changes.
+- **Re-design choices**
+- I am going to create a title of their name so that it stands out along with their contact information and also make it clear that they are officers.
+- **Additional Notes**
+- Make it obvious they are the officers and create titles of their name and contact information.
+
+Task 3: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+- The user was able to navigate to the correct page quickly and completed the necessary tasks with ease.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- The user believed that the design was simple and straightforward to use and the descriptions were very clear.
+- **Your reflections about the user’s performance to the task**
+- I was very pleased with how the user performed as they were able to find the correct web page quickly and the necessary information to finish the task appropriately, giving me confidence that the design is strong.
+- **Re-design choices**
+- None.
+- **Additional Notes**
+- None.
+
+Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+- The user was unsure for a bit, but deduced that the information to complete the task should be in "Jiu-Jitsu Basics" and finished, meeting my expectations mostly.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- The user believed that the headers were very helpful in indicating what the information was going to be about and that the design is very neat and easy to read.
+- **Your reflections about the user’s performance to the task**
+- I am happy about how the user performed because she was able to find where exactly to get another jiu-jitsu uniform and the necessary equipment through the bolded headers.
+- **Re-design choices**
+- None.
+- **Additional Notes**
+- None.
 
 
 ## Changes Based on User Testing (Final Submission)
@@ -661,5 +702,6 @@ If we were going to continue working with the client in the future, we would mos
 
 > 3. Tell us what you, as a team, learned while working on this project. -Leo
 
+We learned that working with a team instead of yourself for a website design project, that it has its benefits and cons as well. Together as a team, working together has proved to shown that we can create a website of greater quality and divide work evenly. However, there were conflicts such as meeting times as everybody has their own schedules. However, the ultimate thing that we learned while working together is that when we can effectively communicate and meet up, we can accomplish so much more and that is truly worth it in the end.
 
 > 4. Tell us anything else you need us to know for when we're looking at the project. -Joana
