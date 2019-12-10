@@ -520,16 +520,14 @@ Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in
 **Did you evaluate the desktop or mobile design?**
 - Mobile
 **How did the user do? Did they meet your expectation?**
-- The user hesitated a moment, but then immediately went for the correct page on the nav.
+- The user hesitated a moment, but then immediately went for the correct page on the nav (Jiu-jitsu basics). Once there he scrolled vertically until he was able to find the two grouped sections that were relative to his task (the what to bring and where to buy it pages). He then listed the items he needed and found a few sites that might be able to sell them
 **User’s reaction / feedback to the design**
+- The user thought that it was helpful having the "what to buy" section close to the "where to buy it" section so that the user had to do a minimum of navigation to find the information. He also thought that the list-like nature of the vendors made it easier for him to explore options
 **Your reflections about the user’s performance to the task**
+- It was gratifying that the user was able to find the information readily on the page. Even though it wasn't the first thing you saw, he was able to scroll through and find it, proving that the headings were effective.
 **Re-design choices**
+- None
 **Additional Notes**
-
-
-
-
-
 
 
 ### User 5 - Testing Notes (Final Submission)- (Ava)
@@ -692,6 +690,14 @@ Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-
 
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications. -Asher
+
+The first area that gave us trouble was the carousel page. Originally, we had planned on having the carousel navigation buttons overlayed on top of the image, but we decided that doing this would ruin the aesthetic affect of the banner image that the carousel provided. Therefore, we decided to have the navigation be below the carousel instead of on top.
+
+Secondly, the meet the team page gave us a few issues from the logistic end. Originally we had planned to keep a list of all members of the team. However, we decided that this would be hard to manage logistically based on the team's limited resources, and that updating this each year or even each semester, as well as cutting out inactive members, would make such a list difficult. We therefore decided to only have the officer's info displayed, as well as their contact info and bio.
+
+Thirdly, the calendar gave us a few issues logistically. Since we weren't allowed to embed the google calendar framework, we decided to code a new one. However, while we were able to hardcode certain regular events in, we still had to figure out how to allow the administrator to add or remove special events. Initially we explored such solutions as having the code read from a text file that the administrator would edit, or reading it from an email. However, we decided that such functions either did not exist in the current jquery framework, or would involve the use of many other APIs. We therefore decided to code a function to allow the administrator to add them theirselves, and to separate the function from the rest of the code by white space so the administrator was not intimidated by the code.
+
+If we were going to continue working with the client in the future, we would most likely remove certain citations for open source images, perhaps embed a google calendar framework if they wished, and update their meet the team page to reflect the current club membership in case it changes.
 
 
 > 3. Tell us what you, as a team, learned while working on this project. -Leo
