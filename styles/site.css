@@ -570,7 +570,7 @@ nav{
     flex-direction: column;
 }
 .videos figure{
-    margin: 10px 5%;
+    margin: 10px auto;
 }
 
 /*calendar stuff*/

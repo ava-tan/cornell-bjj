@@ -85,7 +85,7 @@ Need/Want: jiu-jitsu info
 - makes sense to have its own page so it doesn't crowd out other content
 - makes the information easily accessible from the nav
 
-Need/Want: Responsiveness
+Need/Want: Able to use on phones
 - **Needs/wants**
 - users said they would probably access the website on the phone more than their Desktop
 - needs mobile design to be easy to use
@@ -300,19 +300,20 @@ Calendar pseudocode (Asher):
 
 How the data is stored:
 ```
-1. create a list of all months the web owner has events for
-2. Link each month to the number of days in that month
-3. Link each month to a list of days in that month
-4. Link each day to a nested list containing one list of times and one list of events.
+1. create two lists, one of days of the week and one of months.
+    2. For the days of the week
+        a. link each day of the week to the regularly scheduled events for that day (one list of days and one of times)
+    3. For the months of the year
+        a. give each month a number of days and a list of "special" events not regularly scheduled for a given day
 ```
 
 How the data is displayed:
 ```
-1. Use javascript to get the current month
+1. Use javascript to get the current month and the year
 2. Find that month in the list
 3. Use js to find the first day of that month
 4. Starting from that day, add the date to each box on the calendar
-5. Add the name of the month to the title of the calendar header
+5. Add the name of the month and the year to the title of the calendar header
 
 When a day is clicked:
 1. Find the relevant day's time and events
@@ -323,6 +324,20 @@ When a day is clicked:
 
 When the close button is clicked:
 1. set the pop_up display to none
+
+When the 'next' button is pressed
+1. if the current month isn't December
+    set the current month to be one later than the current month
+2. else
+    add one to the current year
+    set the current month to January
+
+When the 'previous' button is pressed
+1. if the current month isn't January
+    set the current month to be one less than the current month
+2. else
+    subtract one from the current year
+    set the current month to December
 ```
 
 Sign Up Form Pseudocode (Ava):
@@ -362,7 +377,7 @@ Submit the form to the server.
 
 (Jonna) I altered the slideshow so that it had buttons instead of automatically playing. This was to avoid the slideshow being too abrupt and distracting from the rest of the page.
 
-
+(Asher) I blocked out inactive days on the calendar, added a hover effect so that users know they can click on the days, and set the nav element for the current page to red
 
 ## User Testing
 > If you conducted user testing in Milestone 1, you only need to user test 2 more users. Otherwise, you must conduct user testing with 4 users.
