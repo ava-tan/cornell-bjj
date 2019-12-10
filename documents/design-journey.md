@@ -446,6 +446,8 @@ Submit the form to the server.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+
+
 My user is a Cornell Freshman who is studying physics in the college of arts and sciences, although her major isn't 100% decided. She loves to find new books to read and go online shopping in her free time.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
@@ -518,37 +520,84 @@ Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in
 
 
 ### User 4 - Testing Notes (Final Submission)
+
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](aidan_desktop_testing.jpg)
 
 ### User 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+Aidan is a freshman living on north campus. He's thinking of double majoring in classics and physics, but has a huge interest in latin literature (which he is fluent in).
 
 2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
+
+ Yes. Aidan has some experience in martial arts, but dropped it a long time ago. However, he has some interest learning more about the different physical fitness groups on campus.
 
 
 ### User 4 - **Mobile** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: [Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)]
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user was able to find the location and time of meetings very easily. Starting on the home page, he simply scrolled down and saw the information on the bottom right half of the screen and saw the information there.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- While the user was able to find the information easily, they weren't sure off the top of their head where that location was. However, the address was in an easily readable format and they knew they'd be able to find it on google maps.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I was pleased that they were able to find the information easily. Obviously, I can't expect that every user is going to automatically know the location of all buildings off the top of their head. However, considering that most people will simply use their phones to get directions through a maps app, I'm not concerned about adding that functionality.
 - **Re-design choices**
-- TODO
+- None
 - **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- No added functionality needed
 
-...
+
+Task: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
+**Did you evaluate the desktop or mobile design?**
+- Mobile
+**How did the user do? Did they meet your expectation?**
+- the user was able to choose the right page from the navigation and go to the meet the team page. Once there, he saw the officers' names and pictures, as well as their contact info.
+**User’s reaction / feedback to the design**
+- The user thought the information was relatively easy to find, but was confused why the officers' contact info was separate from their name, picture, and bio. He thought that if he wanted to contact them, having all the info in one place would be helpful.
+**Your reflections about the user’s performance to the task**
+- I agree with the user about the placement of the contact info. Having all of the information in one place could be helpful in such a regard, and could make the site more efficient
+**Re-design choices**
+-
+**Additional Notes**
+
+
+Task: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
+
+**Did you evaluate the desktop or mobile design?**
+- Mobile
+**How did the user do? Did they meet your expectation?**
+- Firstly, the user was able to find the correct page very easily, and used the nav to get there. Once there, I had to intervene to explain that the information would not be sent to any external source, but once he was reassurred as to the confidentiality of his responses he filled out the form easily, using the keyboard to navigate the fields. He then submitted with no errors. Once he did that he was able to click the link to be forwarded to the waver.
+**User’s reaction / feedback to the design**
+- User thought that the navigation and organization of information was well laid out and intuitive. Similarly, they thought the form was easy to use, and reported that they had no trouble understanding what to enter for each field
+**Your reflections about the user’s performance to the task**
+- I'm pleased the user was able to understand the site layout without intervention, and that they were able to know what information was necessary to complete the form
+**Re-design choices**
+- None
+**Additional Notes**
+
+Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
+
+**Did you evaluate the desktop or mobile design?**
+- Mobile
+**How did the user do? Did they meet your expectation?**
+- The user hesitated a moment, but then immediately went for the correct page on the nav.
+**User’s reaction / feedback to the design**
+**Your reflections about the user’s performance to the task**
+**Re-design choices**
+**Additional Notes**
+
+
+
+
+
 
 
 ### User 5 - Testing Notes (Final Submission)
@@ -624,13 +673,13 @@ Task: [TODO: copy task here]
 
 
 ## Final Notes to the Graders (Final Submission)
-> 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
+> 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well. -Ava
 
 
-> 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications.
+> 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications. -Asher
 
 
-> 3. Tell us what you, as a team, learned while working on this project.
+> 3. Tell us what you, as a team, learned while working on this project. -Leo
 
 
-> 4. Tell us anything else you need us to know for when we're looking at the project.
+> 4. Tell us anything else you need us to know for when we're looking at the project. -Joana
