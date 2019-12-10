@@ -255,19 +255,6 @@ div.row{
   font-family: 'SourceSansProLight', sans-serif;
 }
 
-p.e{
-  margin-right: 50px;
-  font-size: 27px;
-}
-img#uno{
-  margin-left: 50px;
-}
-img#micaela{
-  margin-left: 50px;
-}
-img#travis{
-  margin-left: 50px;
-}
 
 .row{
   display:flex;
