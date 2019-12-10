@@ -160,7 +160,39 @@ nav{
     text-align: center;
 }
 
+figcaption.d{
+  text-align: center;
+}
+figure.c{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+img.i{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.t{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.u{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.team{
+  text-align:center;
+}
 
+p.e{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
 p.basics-text{
   width: 50%;
   margin-left: auto;
@@ -215,15 +247,7 @@ div.row{
   font-family: 'SourceSansProLight', sans-serif;
 }
 
-img#uno{
-  margin-left: 50px;
-}
-img#micaela{
-  margin-left: 50px;
-}
-img#travis{
-  margin-left: 50px;
-}
+
 .row{
   display:flex;
   margin-left: 0px;
