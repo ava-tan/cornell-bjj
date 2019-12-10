@@ -202,6 +202,8 @@ of the team
 
 - Meet the Team Sketch - Leo
 ![](leodraft.jpeg)
+- Meet the Team Sketch #2 - Leo
+![](leodraft2.jpeg)
 - Signup draft sketch - Ava
 ![Desktop draft](signupsketch-1.jpg)
 
@@ -224,7 +226,7 @@ Calendar, sign up form, and image gallery. All this meets the needs of our clien
 - Full page
 ![](basicsfinal.jpg)
 - Meet the Team Final Sketch (Desktop) - Leo
-![](leodfinal.jpeg)
+![](leodesktopfinal.jpeg)
 
 - Signup Final Sketch (Desktop) - Ava
 ![Signup Final Desktop](signupsketch-final.jpg)
@@ -245,7 +247,7 @@ Videos (mobile)
 Full page (mobile)
 ![](basicsmobile.jpg)
 - Meet the Team Final Sketch (Mobile) - Leo
-![](leomfinal.jpeg)
+![](leomobilefinal.jpeg)
 
 - Signup Final Sketch (Mobile) - Ava
 ![Signup Mobile Final](signupsketch-mobile.jpg)
@@ -609,6 +611,7 @@ Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-
 ### User 6 - Testing Notes (Final Submission) - Leo
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](leouser.jpeg)
 
 ### User 6 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
