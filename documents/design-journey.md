@@ -520,16 +520,14 @@ Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in
 **Did you evaluate the desktop or mobile design?**
 - Mobile
 **How did the user do? Did they meet your expectation?**
-- The user hesitated a moment, but then immediately went for the correct page on the nav.
+- The user hesitated a moment, but then immediately went for the correct page on the nav (Jiu-jitsu basics). Once there he scrolled vertically until he was able to find the two grouped sections that were relative to his task (the what to bring and where to buy it pages). He then listed the items he needed and found a few sites that might be able to sell them
 **User’s reaction / feedback to the design**
+- The user thought that it was helpful having the "what to buy" section close to the "where to buy it" section so that the user had to do a minimum of navigation to find the information. He also thought that the list-like nature of the vendors made it easier for him to explore options
 **Your reflections about the user’s performance to the task**
+- It was gratifying that the user was able to find the information readily on the page. Even though it wasn't the first thing you saw, he was able to scroll through and find it, proving that the headings were effective.
 **Re-design choices**
+- None
 **Additional Notes**
-
-
-
-
-
 
 
 ### User 5 - Testing Notes (Final Submission)- (Ava)
@@ -557,55 +555,55 @@ Task 1: Exploring the site, where and when does jiu jitsu club meet? (You'll be 
 - **How did the user do? Did they meet your expectation?**
 - The user checked the Calendar page first and then went navigated to Home to find the information, which was unexpected.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- The user thought that the general information for the club was located in calendar but realized that it was located in home, said that the schedule should also be shown in the calendar.
+- The user thought that the general information for the club was
 - **Your reflections about the user’s performance to the task**
-- I thought it was interesting how she navigated to calendar first instead of scrolling down on home.
+- TODO
 - **Re-design choices**
-- Include the time of meetings in calendar and emphasize home information.
+- TODO
 - **Additional Notes**
-- N/A
+- TODO: Justify your decisions; additional notes.
 
 Task 2: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: **desktop**/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-- The user quickly went to the Meet the Team page and identified the 2 officers in about 30 seconds, which was expected.
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- User suggested that we fix the font size and the image sizing of the images.
+- TODO
 - **Your reflections about the user’s performance to the task**
-- I'm glad that the user was able to successfully find the information.
+- TODO
 - **Re-design choices**
-- Resize font to be more cohesive with the rest of the site and resize images.
+- TODO
 - **Additional Notes**
-- N/A
+- TODO: Justify your decisions; additional notes.
 
 Task 3: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: **desktop**/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-- The user quickly navigated to the signups and forms page and successfully completed/submitted the form, as well as the identified the consent form.
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- No issues were specified.
+- TODO
 - **Your reflections about the user’s performance to the task**
-- I'm glad that the user was able to easily submit the form without any issues.
+- TODO
 - **Re-design choices**
-- N/A
+- TODO
 - **Additional Notes**
-- N/A
+- TODO: Justify your decisions; additional notes.
 
 Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: **desktop**/mobile
+- Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
-- The user successfully navigated to the Jiu Jitsu basics page and specified the different outfitters for gear in about 45 seconds.
+- TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- User enjoyed the basics page and said that it was thoughtful for new members that we included videos/basic info about jiu jitsu.
+- TODO
 - **Your reflections about the user’s performance to the task**
-- I'm happy that the user was able to easily find the information needed and that they enjoyed the content on the page.
+- TODO
 - **Re-design choices**
-- N/A
+- TODO
 - **Additional Notes**
-- N/A
+- TODO: Justify your decisions; additional notes.
 
 
 ### User 6 - Testing Notes (Final Submission)
@@ -649,12 +647,16 @@ Task: [TODO: copy task here]
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well. -Ava
 
-* A strength of our website is that there is a very cohesive and clean theme that is pleasing to the eye and welcoming to our users. We wanted the website to look sophisticated and polished to help represent the Jiu Jitsu team in a more official way, which I believed we achieved.
-* Another strength of our website is that there are multiple elements of interactivity, including a fully interactive calendar that shows the events on specific days of the week throughout the year when clicking on specific days.
-* Lastly, a strength of our website is that the content was thoughtfully planned out and the navigation is easy to understand/access. Since our target audience was potential new members and people who wanted to learn more about jiu jitsu, I think that our Jiu Jitsu Basics page really meets the needs of our users by providing them with ample information about Jiu Jitsu in general. 
-
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications. -Asher
+
+The first area that gave us trouble was the carousel page. Originally, we had planned on having the carousel navigation buttons overlayed on top of the image, but we decided that doing this would ruin the aesthetic affect of the banner image that the carousel provided. Therefore, we decided to have the navigation be below the carousel instead of on top.
+
+Secondly, the meet the team page gave us a few issues from the logistic end. Originally we had planned to keep a list of all members of the team. However, we decided that this would be hard to manage logistically based on the team's limited resources, and that updating this each year or even each semester, as well as cutting out inactive members, would make such a list difficult. We therefore decided to only have the officer's info displayed, as well as their contact info and bio.
+
+Thirdly, the calendar gave us a few issues logistically. Since we weren't allowed to embed the google calendar framework, we decided to code a new one. However, while we were able to hardcode certain regular events in, we still had to figure out how to allow the administrator to add or remove special events. Initially we explored such solutions as having the code read from a text file that the administrator would edit, or reading it from an email. However, we decided that such functions either did not exist in the current jquery framework, or would involve the use of many other APIs. We therefore decided to code a function to allow the administrator to add them theirselves, and to separate the function from the rest of the code by white space so the administrator was not intimidated by the code.
+
+If we were going to continue working with the client in the future, we would most likely remove certain citations for open source images, perhaps embed a google calendar framework if they wished, and update their meet the team page to reflect the current club membership in case it changes.
 
 
 > 3. Tell us what you, as a team, learned while working on this project. -Leo
