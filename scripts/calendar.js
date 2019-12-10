@@ -1,4 +1,4 @@
-//YOU CAN IGNORE ALL THIS CODE AND JUMP TO LINE 145 TO ADD YOUR OWN CUSTOM EVENTS
+//YOU CAN IGNORE ALL THIS CODE AND JUMP TO LINE 162 TO ADD YOUR OWN CUSTOM EVENTS
 
 $(document).ready(function() {
     //bunch of definitions, gives each month a length and a list of special events, and each day of the week scheduled events

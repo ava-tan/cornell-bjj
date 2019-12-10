@@ -209,12 +209,21 @@ div.row{
 .d{
   margin-left: 50px;
 }
-
+.e{
+  margin-left: 50px;
+  font-size: 32px;
+  font-family: 'SourceSansProLight', sans-serif;
+  margin-top: 20px;
+  margin-right: 30px;
+}
 .g{
   margin-left: 50px;
   font-family: 'SourceSansProLight', sans-serif;
 }
-
+p.e{
+  margin-right: 50px;
+  font-size: 27px;
+}
 img#uno{
   margin-left: 50px;
 }
