@@ -208,76 +208,6 @@ of the team
 ## Interactivity (Milestone 1) - Leo
 Calendar, sign up form, and image gallery. All this meets the needs of our client because the calendar will show what days the jiu-jitsu club will meet, the image gallery will provide them a visual of what the club is like, and the consent form will let them fill out the agreement to join the club. The image gallery can be clicked on and you can transition from one picture to another. The calendar will work by displaying a digital calendar and you can click on the days to see what events are going and their respective times.
 
-
-
-## User Testing (_optional_)
-> This testing is optional.
-
-### User 1 - Testing Notes (Milestone 1)
-> When conducting user testing, you should take notes during the test. Place your notes here.
-
-
-### User 1 (Milestone 1)
-> Using your notes from above, describe your user by answering the questions below.
-
-1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-
-2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
-
-
-### User 1 - **Desktop** (Milestone 1)
-> Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
-
-Task: [TODO: copy task here]
-- **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
-- **How did the user do? Did they meet your expectation?**
-- TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
-- **Your reflections about the user’s performance to the task**
-- TODO
-- **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
-
-...
-
-
-### User 2 - Testing Notes (Milestone 1)
-> When conducting user testing, you should take notes during the test. Place your notes here.
-
-
-### User 2 (Milestone 1)
-> Using your notes from above, describe your user by answering the questions below.
-
-1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-
-2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
-
-
-### User 2 - **Mobile** (Milestone 1)
-> Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
-
-Task: [TODO: copy task here]
-- **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
-- **How did the user do? Did they meet your expectation?**
-- TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
-- **Your reflections about the user’s performance to the task**
-- TODO
-- **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
-
 ...
 
 
@@ -438,11 +368,10 @@ Submit the form to the server.
 > If you conducted user testing in Milestone 1, you only need to user test 2 more users. Otherwise, you must conduct user testing with 4 users.
 
 ### User 3 - Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user3notes.JPG)
 
 ### User 3 (Final Submission)
-> Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
@@ -451,70 +380,58 @@ Submit the form to the server.
 My user is a Cornell Freshman who is studying physics in the college of arts and sciences, although her major isn't 100% decided. She loves to find new books to read and go online shopping in her free time.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
 Yes, because although she has never done jiu jitsu before, she is interested in joining new clubs and learning new skills.
 
-
 ### User 3 - **Desktop** (Final Submission) (Jonna)
-> Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
-
 
 Task: Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user did as I expected - they were able to locate the correct information on the homepage without too much exploration around the rest of the website.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- Due to the size of the slideshow, they had to scroll to find the information as it was hidden/pushed down at first. However, they didn't feel like it was too much of a problem as they really enjoyed how the slideshow looked visually.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- The user performed as I expected without too many obstacles. I was pleased that they were able to use the website correctly.
 - **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- For re-design, I don't really think there was much to do because the user commented that I shouldn't change the size of the slideshow and the information was easy enough to find.
 
 Task: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user was able to successfully complete this task and meet my expectation.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- The user scanned over the nav bar and then clicked for the 'Meet the Team' page. They scrolled up and down the page and finally found the names of the two officers.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- I was pleased by how simply and smoothly the user was able to perform the task.
 - **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- Per the user's performance, no re-design opportunities really came up. The user was already able to find the needed information quite effectively.
 
 Task: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user was able to complete a part of the task but not all of it.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- The user was able to locate the sign up and forms correctly; however, after clicking on the external link on the bottom of the page for the waiver form, she could not find the actual form itself.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- We need to locate the link for the actual pdf of the waiver form so that it's easier for the audience to find!
 - **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- Change the link to the waiver form so that it's more accessible.
 
 Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
 - **Did you evaluate the desktop or mobile design?**
-- Pick one: desktop/mobile
+- Desktop
 - **How did the user do? Did they meet your expectation?**
-- TODO
+- The user was able to locate the four online stores/platforms that they can purchase from! This met my expectation.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-- TODO
+- The user went to the jiu-jitsu basics page via the navigation bar. They then scrolled down and started reading the what to wear section. Then they finally read the "wear to get gear" section and found the correct answer to the task. They told me afterwards that the information was pretty easy to find.
 - **Your reflections about the user’s performance to the task**
-- TODO
+- The user's performance was quite smooth in doing the task. This is probably thanks to our straight forward layout and clear header/titles.
 - **Re-design choices**
-- TODO
-- **Additional Notes**
-- TODO: Justify your decisions; additional notes.
+- The user was able to adequately finish the task with the design that we have now, so I have decided to retain it as it is.
 
 ...
 
@@ -600,24 +517,40 @@ Task: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in
 
 
 
-### User 5 - Testing Notes (Final Submission)
+### User 5 - Testing Notes (Final Submission)- (Ava)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](usertesting-ava.jpg)
 
 ### User 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 2 is a first-year student at Cornell studying Computer Science in the College of Engineering. She is from Long Island. She loves everything outdoors, including hiking, kayaking, and rock climbing. She is very interested in photography as well and takes pictures around campus for fun. She is often studying in a library on Central Campus and is very busy as an engineering student. She is interested in exploring new sports/ways to exercise on campus.
 
-2. Does the user belong to your target audience of the site? (Yes / No)
+2. Does the user belong to your target audience of the site? (**Yes** / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
 
 ### User 5 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task 1: Exploring the site, where and when does jiu jitsu club meet? (You'll be sure to show up!)
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: **desktop**/mobile
+- **How did the user do? Did they meet your expectation?**
+- The user checked the Calendar page first and then went navigated to Home to find the information, which was unexpected.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- The user thought that the general information for the club was
+- **Your reflections about the user’s performance to the task**
+- TODO
+- **Re-design choices**
+- TODO
+- **Additional Notes**
+- TODO: Justify your decisions; additional notes.
+
+Task 2: You want to see a few people on the team before you actually go to practice. Find who the two officers of the club are.
 - **Did you evaluate the desktop or mobile design?**
 - Pick one: desktop/mobile
 - **How did the user do? Did they meet your expectation?**
@@ -631,7 +564,33 @@ Task: [TODO: copy task here]
 - **Additional Notes**
 - TODO: Justify your decisions; additional notes.
 
-...
+Task 3: After browsing a bit, you're definitely interested in joining! Sign up for the listserv and find the consent form you need to sign before going to the first meeting.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: desktop/mobile
+- **How did the user do? Did they meet your expectation?**
+- TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- TODO
+- **Your reflections about the user’s performance to the task**
+- TODO
+- **Re-design choices**
+- TODO
+- **Additional Notes**
+- TODO: Justify your decisions; additional notes.
+
+Task 4: You realize you forgot to bring your jiu jitsu uniform to Ithaca - move-in was too hectic! Find where you can get another jiu jitsu uniform as well as any other equipment you need to join the club.
+- **Did you evaluate the desktop or mobile design?**
+- Pick one: desktop/mobile
+- **How did the user do? Did they meet your expectation?**
+- TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+- TODO
+- **Your reflections about the user’s performance to the task**
+- TODO
+- **Re-design choices**
+- TODO
+- **Additional Notes**
+- TODO: Justify your decisions; additional notes.
 
 
 ### User 6 - Testing Notes (Final Submission)
